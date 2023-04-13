@@ -1,664 +1,475 @@
 GEO,Number of residential properties owned,Other immigration characteristics,Median age of property owners,Median family total income,Median of total assessment value,Number of property owners
-British Columbia,Multiple-property owner,Africa,57.0,165000.0,1820000.0,3265.0
-British Columbia,Multiple-property owner,America,58.0,135000.0,1400000.0,5260.0
-British Columbia,Multiple-property owner,Asia,52.0,110000.0,2070000.0,67900.0
-British Columbia,Multiple-property owner,Caregiver,52.0,115000.0,1420000.0,980.0
-British Columbia,Multiple-property owner,Europe,58.0,130000.0,1510000.0,17365.0
-British Columbia,Multiple-property owner,Federal entrepreneur,56.0,95000.0,2210000.0,3565.0
-British Columbia,Multiple-property owner,Federal investor,52.0,75000.0,2810000.0,3405.0
-British Columbia,Multiple-property owner,Federal skilled worker,53.0,130000.0,1830000.0,27325.0
-British Columbia,Multiple-property owner,Government-assisted refugee,55.0,115000.0,1660000.0,2175.0
-British Columbia,Multiple-property owner,Oceania,56.0,130000.0,1770000.0,2480.0
-British Columbia,Multiple-property owner,Other admission category,55.0,90000.0,2190000.0,1120.0
-British Columbia,Multiple-property owner,Other economic admission category,45.0,105000.0,1740000.0,2110.0
-British Columbia,Multiple-property owner,Other family sponsorship admission category,41.0,110000.0,1680000.0,400.0
-British Columbia,Multiple-property owner,Other places of birth,71.0,95000.0,1510000.0,5935.0
-British Columbia,Multiple-property owner,Other refugee admission category,41.0,100000.0,1770000.0,195.0
-British Columbia,Multiple-property owner,Privately sponsored refugee,56.0,115000.0,1740000.0,1710.0
-British Columbia,Multiple-property owner,Protected refugee in Canada,52.0,100000.0,1840000.0,895.0
-British Columbia,Multiple-property owner,Provincial and territorial nominee,42.0,110000.0,1780000.0,3505.0
-British Columbia,Multiple-property owner,Quebec investor,52.0,65000.0,3500000.0,2620.0
-British Columbia,Multiple-property owner,Quebec skilled worker,45.0,130000.0,1630000.0,530.0
-British Columbia,Multiple-property owner,Sponsored child,48.0,125000.0,1910000.0,1005.0
-British Columbia,Multiple-property owner,Sponsored parent or grandparent,52.0,100000.0,2000000.0,7435.0
-British Columbia,Multiple-property owner,Sponsored spouse or partner,50.0,120000.0,1880000.0,18070.0
-British Columbia,Multiple-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-British Columbia,Multiple-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-British Columbia,Single-property owner,Africa,56.0,125000.0,778000.0,15435.0
-British Columbia,Single-property owner,America,56.0,110000.0,658000.0,34270.0
-British Columbia,Single-property owner,Asia,52.0,85000.0,883000.0,313150.0
-British Columbia,Single-property owner,Caregiver,50.0,105000.0,569000.0,12390.0
-British Columbia,Single-property owner,Europe,59.0,100000.0,684000.0,91680.0
-British Columbia,Single-property owner,Federal entrepreneur,60.0,65000.0,976000.0,17125.0
-British Columbia,Single-property owner,Federal investor,54.0,50000.0,1220000.0,14975.0
-British Columbia,Single-property owner,Federal skilled worker,53.0,105000.0,810000.0,130450.0
-British Columbia,Single-property owner,Government-assisted refugee,55.0,90000.0,756000.0,11290.0
-British Columbia,Single-property owner,Oceania,55.0,105000.0,854000.0,12325.0
-British Columbia,Single-property owner,Other admission category,60.0,55000.0,995000.0,5845.0
-British Columbia,Single-property owner,Other economic admission category,41.0,95000.0,721000.0,12700.0
-British Columbia,Single-property owner,Other family sponsorship admission category,41.0,95000.0,712000.0,2180.0
-British Columbia,Single-property owner,Other places of birth,74.0,65000.0,647000.0,32580.0
-British Columbia,Single-property owner,Other refugee admission category,42.0,85000.0,830000.0,1245.0
-British Columbia,Single-property owner,Privately sponsored refugee,55.0,90000.0,804000.0,8245.0
-British Columbia,Single-property owner,Protected refugee in Canada,51.0,80000.0,766000.0,4505.0
-British Columbia,Single-property owner,Provincial and territorial nominee,41.0,100000.0,697000.0,25015.0
-British Columbia,Single-property owner,Quebec investor,52.0,50000.0,1470000.0,10410.0
-British Columbia,Single-property owner,Quebec skilled worker,43.0,110000.0,680000.0,3395.0
-British Columbia,Single-property owner,Sponsored child,47.0,100000.0,791000.0,4745.0
-British Columbia,Single-property owner,Sponsored parent or grandparent,58.0,60000.0,882000.0,34710.0
-British Columbia,Single-property owner,Sponsored spouse or partner,48.0,95000.0,807000.0,83320.0
-British Columbia,Single-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-British Columbia,Single-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-British Columbia,Total properties owned,Africa,56.0,130000.0,879000.0,18700.0
-British Columbia,Total properties owned,America,57.0,115000.0,708000.0,39530.0
-British Columbia,Total properties owned,Asia,52.0,90000.0,1010000.0,381050.0
-British Columbia,Total properties owned,Caregiver,50.0,105000.0,592000.0,13370.0
-British Columbia,Total properties owned,Europe,58.0,105000.0,756000.0,109045.0
-British Columbia,Total properties owned,Federal entrepreneur,60.0,70000.0,1110000.0,20690.0
-British Columbia,Total properties owned,Federal investor,54.0,55000.0,1400000.0,18380.0
-British Columbia,Total properties owned,Federal skilled worker,53.0,110000.0,915000.0,157775.0
-British Columbia,Total properties owned,Government-assisted refugee,55.0,90000.0,836000.0,13460.0
-British Columbia,Total properties owned,Oceania,55.0,110000.0,925000.0,14805.0
-British Columbia,Total properties owned,Other admission category,58.0,60000.0,1130000.0,6965.0
-British Columbia,Total properties owned,Other economic admission category,41.0,95000.0,793000.0,14810.0
-British Columbia,Total properties owned,Other family sponsorship admission category,41.0,95000.0,792000.0,2580.0
-British Columbia,Total properties owned,Other places of birth,74.0,70000.0,717000.0,38505.0
-British Columbia,Total properties owned,Other refugee admission category,42.0,85000.0,877000.0,1440.0
-British Columbia,Total properties owned,Privately sponsored refugee,55.0,90000.0,883000.0,9955.0
-British Columbia,Total properties owned,Protected refugee in Canada,51.0,85000.0,854000.0,5400.0
-British Columbia,Total properties owned,Provincial and territorial nominee,41.0,105000.0,762000.0,28525.0
-British Columbia,Total properties owned,Quebec investor,52.0,50000.0,1730000.0,13030.0
-British Columbia,Total properties owned,Quebec skilled worker,44.0,115000.0,747000.0,3925.0
-British Columbia,Total properties owned,Sponsored child,47.0,105000.0,884000.0,5750.0
-British Columbia,Total properties owned,Sponsored parent or grandparent,56.0,65000.0,978000.0,42145.0
-British Columbia,Total properties owned,Sponsored spouse or partner,48.0,100000.0,893000.0,101390.0
-British Columbia,Total properties owned,Unspecified admission category,0.0,0.0,0.0,0.0
-British Columbia,Total properties owned,Unspecified place of birth,0.0,0.0,0.0,0.0
-Manitoba,Multiple-property owner,Africa,49.0,130000.0,640000.0,665.0
-Manitoba,Multiple-property owner,America,55.0,110000.0,552000.0,1195.0
-Manitoba,Multiple-property owner,Asia,49.0,105000.0,601000.0,5560.0
-Manitoba,Multiple-property owner,Caregiver,55.0,95000.0,495000.0,65.0
-Manitoba,Multiple-property owner,Europe,56.0,105000.0,539000.0,2710.0
-Manitoba,Multiple-property owner,Federal entrepreneur,56.0,120000.0,651000.0,45.0
-Manitoba,Multiple-property owner,Federal investor,0.0,0.0,0.0,10.0
-Manitoba,Multiple-property owner,Federal skilled worker,54.0,140000.0,640000.0,1685.0
-Manitoba,Multiple-property owner,Government-assisted refugee,55.0,95000.0,601000.0,485.0
-Manitoba,Multiple-property owner,Oceania,54.0,125000.0,521000.0,35.0
-Manitoba,Multiple-property owner,Other admission category,49.0,115000.0,585000.0,20.0
-Manitoba,Multiple-property owner,Other economic admission category,50.0,120000.0,561000.0,150.0
-Manitoba,Multiple-property owner,Other family sponsorship admission category,42.0,115000.0,575000.0,45.0
-Manitoba,Multiple-property owner,Other places of birth,69.0,85000.0,507000.0,680.0
-Manitoba,Multiple-property owner,Other refugee admission category,0.0,0.0,0.0,15.0
-Manitoba,Multiple-property owner,Privately sponsored refugee,54.0,100000.0,557000.0,415.0
-Manitoba,Multiple-property owner,Protected refugee in Canada,51.0,95000.0,630000.0,85.0
-Manitoba,Multiple-property owner,Provincial and territorial nominee,44.0,100000.0,552000.0,2985.0
-Manitoba,Multiple-property owner,Quebec investor,0.0,0.0,0.0,5.0
-Manitoba,Multiple-property owner,Quebec skilled worker,43.0,125000.0,598000.0,40.0
-Manitoba,Multiple-property owner,Sponsored child,46.0,120000.0,572000.0,155.0
-Manitoba,Multiple-property owner,Sponsored parent or grandparent,52.0,100000.0,594000.0,465.0
-Manitoba,Multiple-property owner,Sponsored spouse or partner,49.0,110000.0,602000.0,1525.0
-Manitoba,Multiple-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Manitoba,Multiple-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Manitoba,Single-property owner,Africa,47.0,100000.0,295000.0,4545.0
-Manitoba,Single-property owner,America,54.0,95000.0,271000.0,8195.0
-Manitoba,Single-property owner,Asia,47.0,95000.0,273000.0,46710.0
-Manitoba,Single-property owner,Caregiver,51.0,90000.0,240000.0,910.0
-Manitoba,Single-property owner,Europe,55.0,90000.0,290000.0,15295.0
-Manitoba,Single-property owner,Federal entrepreneur,54.0,90000.0,393000.0,190.0
-Manitoba,Single-property owner,Federal investor,42.0,85000.0,329000.0,30.0
-Manitoba,Single-property owner,Federal skilled worker,53.0,115000.0,309000.0,9030.0
-Manitoba,Single-property owner,Government-assisted refugee,54.0,90000.0,277000.0,3135.0
-Manitoba,Single-property owner,Oceania,49.0,110000.0,287000.0,190.0
-Manitoba,Single-property owner,Other admission category,45.0,70000.0,278000.0,100.0
-Manitoba,Single-property owner,Other economic admission category,41.0,100000.0,292000.0,685.0
-Manitoba,Single-property owner,Other family sponsorship admission category,41.0,95000.0,286000.0,350.0
-Manitoba,Single-property owner,Other places of birth,72.0,65000.0,289000.0,4005.0
-Manitoba,Single-property owner,Other refugee admission category,39.0,90000.0,276000.0,110.0
-Manitoba,Single-property owner,Privately sponsored refugee,53.0,85000.0,283000.0,2580.0
-Manitoba,Single-property owner,Protected refugee in Canada,50.0,90000.0,290000.0,365.0
-Manitoba,Single-property owner,Provincial and territorial nominee,44.0,95000.0,263000.0,31890.0
-Manitoba,Single-property owner,Quebec investor,38.0,75000.0,403000.0,30.0
-Manitoba,Single-property owner,Quebec skilled worker,43.0,120000.0,340000.0,205.0
-Manitoba,Single-property owner,Sponsored child,48.0,105000.0,272000.0,1060.0
-Manitoba,Single-property owner,Sponsored parent or grandparent,55.0,90000.0,284000.0,3020.0
-Manitoba,Single-property owner,Sponsored spouse or partner,47.0,95000.0,284000.0,10125.0
-Manitoba,Single-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Manitoba,Single-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Manitoba,Total properties owned,Africa,47.0,100000.0,309000.0,5210.0
-Manitoba,Total properties owned,America,54.0,95000.0,283000.0,9390.0
-Manitoba,Total properties owned,Asia,47.0,95000.0,284000.0,52270.0
-Manitoba,Total properties owned,Caregiver,51.0,90000.0,245000.0,975.0
-Manitoba,Total properties owned,Europe,55.0,95000.0,306000.0,18005.0
-Manitoba,Total properties owned,Federal entrepreneur,55.0,90000.0,413000.0,235.0
-Manitoba,Total properties owned,Federal investor,42.0,105000.0,404000.0,30.0
-Manitoba,Total properties owned,Federal skilled worker,53.0,120000.0,338000.0,10715.0
-Manitoba,Total properties owned,Government-assisted refugee,54.0,90000.0,292000.0,3620.0
-Manitoba,Total properties owned,Oceania,50.0,115000.0,305000.0,230.0
-Manitoba,Total properties owned,Other admission category,46.0,75000.0,294000.0,125.0
-Manitoba,Total properties owned,Other economic admission category,44.0,105000.0,315000.0,835.0
-Manitoba,Total properties owned,Other family sponsorship admission category,42.0,100000.0,296000.0,395.0
-Manitoba,Total properties owned,Other places of birth,71.0,70000.0,302000.0,4685.0
-Manitoba,Total properties owned,Other refugee admission category,40.0,90000.0,288000.0,125.0
-Manitoba,Total properties owned,Privately sponsored refugee,53.0,90000.0,298000.0,2995.0
-Manitoba,Total properties owned,Protected refugee in Canada,50.0,90000.0,319000.0,450.0
-Manitoba,Total properties owned,Provincial and territorial nominee,44.0,95000.0,271000.0,34875.0
-Manitoba,Total properties owned,Quebec investor,40.0,75000.0,409000.0,35.0
-Manitoba,Total properties owned,Quebec skilled worker,43.0,120000.0,356000.0,245.0
-Manitoba,Total properties owned,Sponsored child,48.0,105000.0,288000.0,1215.0
-Manitoba,Total properties owned,Sponsored parent or grandparent,54.0,90000.0,298000.0,3485.0
-Manitoba,Total properties owned,Sponsored spouse or partner,47.0,95000.0,300000.0,11650.0
-Manitoba,Total properties owned,Unspecified admission category,0.0,0.0,0.0,0.0
-Manitoba,Total properties owned,Unspecified place of birth,0.0,0.0,0.0,0.0
-New Brunswick,Multiple-property owner,Africa,50.0,120000.0,380000.0,125.0
-New Brunswick,Multiple-property owner,America,57.0,90000.0,202000.0,645.0
-New Brunswick,Multiple-property owner,Asia,51.0,90000.0,401000.0,425.0
-New Brunswick,Multiple-property owner,Caregiver,0.0,0.0,0.0,10.0
-New Brunswick,Multiple-property owner,Europe,58.0,95000.0,280000.0,755.0
-New Brunswick,Multiple-property owner,Federal entrepreneur,60.0,55000.0,268000.0,35.0
-New Brunswick,Multiple-property owner,Federal investor,0.0,0.0,0.0,0.0
-New Brunswick,Multiple-property owner,Federal skilled worker,56.0,110000.0,351000.0,310.0
-New Brunswick,Multiple-property owner,Government-assisted refugee,58.0,115000.0,372000.0,45.0
-New Brunswick,Multiple-property owner,Oceania,54.0,130000.0,300000.0,35.0
-New Brunswick,Multiple-property owner,Other admission category,0.0,0.0,0.0,10.0
-New Brunswick,Multiple-property owner,Other economic admission category,50.0,80000.0,319000.0,85.0
-New Brunswick,Multiple-property owner,Other family sponsorship admission category,0.0,0.0,0.0,10.0
-New Brunswick,Multiple-property owner,Other places of birth,66.0,80000.0,216000.0,350.0
-New Brunswick,Multiple-property owner,Other refugee admission category,0.0,0.0,0.0,0.0
-New Brunswick,Multiple-property owner,Privately sponsored refugee,58.0,90000.0,287000.0,25.0
-New Brunswick,Multiple-property owner,Protected refugee in Canada,0.0,0.0,0.0,10.0
-New Brunswick,Multiple-property owner,Provincial and territorial nominee,48.0,80000.0,315000.0,305.0
-New Brunswick,Multiple-property owner,Quebec investor,0.0,0.0,0.0,0.0
-New Brunswick,Multiple-property owner,Quebec skilled worker,45.0,150000.0,369000.0,40.0
-New Brunswick,Multiple-property owner,Sponsored child,0.0,0.0,0.0,10.0
-New Brunswick,Multiple-property owner,Sponsored parent or grandparent,0.0,0.0,0.0,15.0
-New Brunswick,Multiple-property owner,Sponsored spouse or partner,53.0,100000.0,253000.0,350.0
-New Brunswick,Multiple-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-New Brunswick,Multiple-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-New Brunswick,Single-property owner,Africa,46.0,105000.0,189000.0,1010.0
-New Brunswick,Single-property owner,America,54.0,90000.0,160000.0,3000.0
-New Brunswick,Single-property owner,Asia,46.0,80000.0,205000.0,3765.0
-New Brunswick,Single-property owner,Caregiver,50.0,80000.0,144000.0,135.0
-New Brunswick,Single-property owner,Europe,54.0,90000.0,179000.0,4220.0
-New Brunswick,Single-property owner,Federal entrepreneur,60.0,80000.0,158000.0,95.0
-New Brunswick,Single-property owner,Federal investor,0.0,0.0,0.0,10.0
-New Brunswick,Single-property owner,Federal skilled worker,52.0,115000.0,215000.0,1915.0
-New Brunswick,Single-property owner,Government-assisted refugee,50.0,85000.0,177000.0,370.0
-New Brunswick,Single-property owner,Oceania,46.0,115000.0,195000.0,105.0
-New Brunswick,Single-property owner,Other admission category,60.0,65000.0,155000.0,45.0
-New Brunswick,Single-property owner,Other economic admission category,40.0,90000.0,195000.0,520.0
-New Brunswick,Single-property owner,Other family sponsorship admission category,43.0,80000.0,160000.0,60.0
-New Brunswick,Single-property owner,Other places of birth,67.0,70000.0,161000.0,1140.0
-New Brunswick,Single-property owner,Other refugee admission category,38.0,85000.0,165000.0,25.0
-New Brunswick,Single-property owner,Privately sponsored refugee,56.0,110000.0,187000.0,130.0
-New Brunswick,Single-property owner,Protected refugee in Canada,51.0,100000.0,173000.0,110.0
-New Brunswick,Single-property owner,Provincial and territorial nominee,45.0,80000.0,191000.0,3360.0
-New Brunswick,Single-property owner,Quebec investor,0.0,0.0,0.0,5.0
-New Brunswick,Single-property owner,Quebec skilled worker,46.0,120000.0,189000.0,280.0
-New Brunswick,Single-property owner,Sponsored child,42.0,110000.0,193000.0,75.0
-New Brunswick,Single-property owner,Sponsored parent or grandparent,55.0,70000.0,194000.0,80.0
-New Brunswick,Single-property owner,Sponsored spouse or partner,50.0,95000.0,166000.0,2150.0
-New Brunswick,Single-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-New Brunswick,Single-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-New Brunswick,Total properties owned,Africa,46.0,105000.0,197000.0,1135.0
-New Brunswick,Total properties owned,America,55.0,90000.0,164000.0,3645.0
-New Brunswick,Total properties owned,Asia,47.0,80000.0,216000.0,4190.0
-New Brunswick,Total properties owned,Caregiver,50.0,80000.0,146000.0,145.0
-New Brunswick,Total properties owned,Europe,55.0,90000.0,187000.0,4975.0
-New Brunswick,Total properties owned,Federal entrepreneur,60.0,65000.0,189000.0,130.0
-New Brunswick,Total properties owned,Federal investor,0.0,0.0,0.0,10.0
-New Brunswick,Total properties owned,Federal skilled worker,53.0,110000.0,227000.0,2225.0
-New Brunswick,Total properties owned,Government-assisted refugee,50.0,90000.0,183000.0,415.0
-New Brunswick,Total properties owned,Oceania,48.0,120000.0,204000.0,140.0
-New Brunswick,Total properties owned,Other admission category,57.0,65000.0,157000.0,55.0
-New Brunswick,Total properties owned,Other economic admission category,41.0,85000.0,204000.0,605.0
-New Brunswick,Total properties owned,Other family sponsorship admission category,43.0,80000.0,160000.0,70.0
-New Brunswick,Total properties owned,Other places of birth,67.0,75000.0,170000.0,1490.0
-New Brunswick,Total properties owned,Other refugee admission category,39.0,85000.0,170000.0,25.0
-New Brunswick,Total properties owned,Privately sponsored refugee,57.0,105000.0,209000.0,155.0
-New Brunswick,Total properties owned,Protected refugee in Canada,52.0,105000.0,181000.0,120.0
-New Brunswick,Total properties owned,Provincial and territorial nominee,45.0,80000.0,197000.0,3665.0
-New Brunswick,Total properties owned,Quebec investor,0.0,0.0,0.0,5.0
-New Brunswick,Total properties owned,Quebec skilled worker,45.0,120000.0,200000.0,320.0
-New Brunswick,Total properties owned,Sponsored child,43.0,105000.0,203000.0,85.0
-New Brunswick,Total properties owned,Sponsored parent or grandparent,54.0,75000.0,204000.0,95.0
-New Brunswick,Total properties owned,Sponsored spouse or partner,50.0,95000.0,173000.0,2500.0
-New Brunswick,Total properties owned,Unspecified admission category,0.0,0.0,0.0,0.0
-New Brunswick,Total properties owned,Unspecified place of birth,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Africa,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,America,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Asia,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Caregiver,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Europe,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Federal entrepreneur,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Federal investor,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Federal skilled worker,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Government-assisted refugee,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Oceania,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Other admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Other economic admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Other family sponsorship admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Other places of birth,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Other refugee admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Privately sponsored refugee,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Protected refugee in Canada,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Provincial and territorial nominee,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Quebec investor,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Quebec skilled worker,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Sponsored child,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Sponsored parent or grandparent,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Sponsored spouse or partner,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Multiple-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Africa,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,America,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Asia,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Caregiver,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Europe,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Federal entrepreneur,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Federal investor,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Federal skilled worker,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Government-assisted refugee,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Oceania,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Other admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Other economic admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Other family sponsorship admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Other places of birth,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Other refugee admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Privately sponsored refugee,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Protected refugee in Canada,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Provincial and territorial nominee,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Quebec investor,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Quebec skilled worker,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Sponsored child,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Sponsored parent or grandparent,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Sponsored spouse or partner,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Single-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Africa,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,America,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Asia,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Caregiver,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Europe,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Federal entrepreneur,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Federal investor,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Federal skilled worker,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Government-assisted refugee,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Oceania,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Other admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Other economic admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Other family sponsorship admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Other places of birth,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Other refugee admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Privately sponsored refugee,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Protected refugee in Canada,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Provincial and territorial nominee,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Quebec investor,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Quebec skilled worker,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Sponsored child,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Sponsored parent or grandparent,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Sponsored spouse or partner,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Unspecified admission category,0.0,0.0,0.0,0.0
-Newfoundland and Labrador,Total properties owned,Unspecified place of birth,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Africa,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,America,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Asia,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Caregiver,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Europe,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Federal entrepreneur,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Federal investor,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Federal skilled worker,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Government-assisted refugee,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Oceania,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Other admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Other economic admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Other family sponsorship admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Other places of birth,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Other refugee admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Privately sponsored refugee,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Protected refugee in Canada,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Provincial and territorial nominee,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Quebec investor,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Quebec skilled worker,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Sponsored child,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Sponsored parent or grandparent,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Sponsored spouse or partner,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Multiple-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Africa,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,America,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Asia,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Caregiver,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Europe,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Federal entrepreneur,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Federal investor,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Federal skilled worker,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Government-assisted refugee,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Oceania,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Other admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Other economic admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Other family sponsorship admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Other places of birth,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Other refugee admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Privately sponsored refugee,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Protected refugee in Canada,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Provincial and territorial nominee,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Quebec investor,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Quebec skilled worker,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Sponsored child,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Sponsored parent or grandparent,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Sponsored spouse or partner,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Single-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Africa,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,America,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Asia,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Caregiver,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Europe,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Federal entrepreneur,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Federal investor,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Federal skilled worker,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Government-assisted refugee,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Oceania,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Other admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Other economic admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Other family sponsorship admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Other places of birth,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Other refugee admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Privately sponsored refugee,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Protected refugee in Canada,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Provincial and territorial nominee,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Quebec investor,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Quebec skilled worker,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Sponsored child,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Sponsored parent or grandparent,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Sponsored spouse or partner,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Unspecified admission category,0.0,0.0,0.0,0.0
-Northwest Territories,Total properties owned,Unspecified place of birth,0.0,0.0,0.0,0.0
-Nova Scotia,Multiple-property owner,Africa,55.0,145000.0,635000.0,205.0
-Nova Scotia,Multiple-property owner,America,63.0,105000.0,370000.0,960.0
-Nova Scotia,Multiple-property owner,Asia,52.0,110000.0,666000.0,1320.0
-Nova Scotia,Multiple-property owner,Caregiver,0.0,0.0,0.0,15.0
-Nova Scotia,Multiple-property owner,Europe,58.0,100000.0,399000.0,1735.0
-Nova Scotia,Multiple-property owner,Federal entrepreneur,63.0,55000.0,561000.0,140.0
-Nova Scotia,Multiple-property owner,Federal investor,0.0,0.0,0.0,20.0
-Nova Scotia,Multiple-property owner,Federal skilled worker,55.0,130000.0,556000.0,1030.0
-Nova Scotia,Multiple-property owner,Government-assisted refugee,52.0,115000.0,504000.0,70.0
-Nova Scotia,Multiple-property owner,Oceania,54.0,120000.0,468000.0,65.0
-Nova Scotia,Multiple-property owner,Other admission category,0.0,0.0,0.0,15.0
-Nova Scotia,Multiple-property owner,Other economic admission category,57.0,65000.0,458000.0,135.0
-Nova Scotia,Multiple-property owner,Other family sponsorship admission category,0.0,100000.0,399000.0,20.0
-Nova Scotia,Multiple-property owner,Other places of birth,70.0,85000.0,356000.0,535.0
-Nova Scotia,Multiple-property owner,Other refugee admission category,0.0,0.0,0.0,5.0
-Nova Scotia,Multiple-property owner,Privately sponsored refugee,60.0,100000.0,554000.0,55.0
-Nova Scotia,Multiple-property owner,Protected refugee in Canada,51.0,90000.0,570000.0,45.0
-Nova Scotia,Multiple-property owner,Provincial and territorial nominee,47.0,90000.0,490000.0,445.0
-Nova Scotia,Multiple-property owner,Quebec investor,0.0,0.0,1030000.0,20.0
-Nova Scotia,Multiple-property owner,Quebec skilled worker,48.0,130000.0,482000.0,40.0
-Nova Scotia,Multiple-property owner,Sponsored child,0.0,0.0,344000.0,20.0
-Nova Scotia,Multiple-property owner,Sponsored parent or grandparent,56.0,80000.0,436000.0,60.0
-Nova Scotia,Multiple-property owner,Sponsored spouse or partner,53.0,110000.0,441000.0,870.0
-Nova Scotia,Multiple-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Nova Scotia,Multiple-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Nova Scotia,Single-property owner,Africa,49.0,105000.0,284000.0,1300.0
-Nova Scotia,Single-property owner,America,57.0,95000.0,230000.0,3585.0
-Nova Scotia,Single-property owner,Asia,46.0,90000.0,302000.0,6175.0
-Nova Scotia,Single-property owner,Caregiver,49.0,90000.0,220000.0,165.0
-Nova Scotia,Single-property owner,Europe,56.0,95000.0,248000.0,7385.0
-Nova Scotia,Single-property owner,Federal entrepreneur,60.0,70000.0,304000.0,415.0
-Nova Scotia,Single-property owner,Federal investor,54.0,70000.0,389000.0,90.0
-Nova Scotia,Single-property owner,Federal skilled worker,52.0,110000.0,290000.0,4475.0
-Nova Scotia,Single-property owner,Government-assisted refugee,53.0,85000.0,278000.0,530.0
-Nova Scotia,Single-property owner,Oceania,52.0,115000.0,267000.0,215.0
-Nova Scotia,Single-property owner,Other admission category,53.0,70000.0,234000.0,85.0
-Nova Scotia,Single-property owner,Other economic admission category,41.0,95000.0,273000.0,645.0
-Nova Scotia,Single-property owner,Other family sponsorship admission category,44.0,90000.0,202000.0,95.0
-Nova Scotia,Single-property owner,Other places of birth,70.0,70000.0,212000.0,1890.0
-Nova Scotia,Single-property owner,Other refugee admission category,40.0,65000.0,178000.0,50.0
-Nova Scotia,Single-property owner,Privately sponsored refugee,56.0,85000.0,261000.0,245.0
-Nova Scotia,Single-property owner,Protected refugee in Canada,50.0,90000.0,240000.0,165.0
-Nova Scotia,Single-property owner,Provincial and territorial nominee,41.0,95000.0,290000.0,3265.0
-Nova Scotia,Single-property owner,Quebec investor,56.0,50000.0,384000.0,70.0
-Nova Scotia,Single-property owner,Quebec skilled worker,45.0,125000.0,273000.0,190.0
-Nova Scotia,Single-property owner,Sponsored child,45.0,95000.0,232000.0,105.0
-Nova Scotia,Single-property owner,Sponsored parent or grandparent,63.0,60000.0,257000.0,225.0
-Nova Scotia,Single-property owner,Sponsored spouse or partner,49.0,100000.0,248000.0,3650.0
-Nova Scotia,Single-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Nova Scotia,Single-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Nova Scotia,Total properties owned,Africa,50.0,110000.0,296000.0,1495.0
-Nova Scotia,Total properties owned,America,59.0,100000.0,247000.0,4545.0
-Nova Scotia,Total properties owned,Asia,47.0,95000.0,325000.0,7495.0
-Nova Scotia,Total properties owned,Caregiver,49.0,90000.0,220000.0,180.0
-Nova Scotia,Total properties owned,Europe,56.0,95000.0,265000.0,9125.0
-Nova Scotia,Total properties owned,Federal entrepreneur,61.0,65000.0,328000.0,555.0
-Nova Scotia,Total properties owned,Federal investor,54.0,70000.0,399000.0,110.0
-Nova Scotia,Total properties owned,Federal skilled worker,53.0,115000.0,309000.0,5505.0
-Nova Scotia,Total properties owned,Government-assisted refugee,53.0,90000.0,289000.0,600.0
-Nova Scotia,Total properties owned,Oceania,53.0,120000.0,286000.0,280.0
-Nova Scotia,Total properties owned,Other admission category,53.0,70000.0,253000.0,100.0
-Nova Scotia,Total properties owned,Other economic admission category,44.0,90000.0,282000.0,780.0
-Nova Scotia,Total properties owned,Other family sponsorship admission category,44.0,95000.0,226000.0,115.0
-Nova Scotia,Total properties owned,Other places of birth,70.0,75000.0,235000.0,2425.0
-Nova Scotia,Total properties owned,Other refugee admission category,42.0,70000.0,201000.0,50.0
-Nova Scotia,Total properties owned,Privately sponsored refugee,56.0,90000.0,282000.0,305.0
-Nova Scotia,Total properties owned,Protected refugee in Canada,50.0,90000.0,285000.0,210.0
-Nova Scotia,Total properties owned,Provincial and territorial nominee,42.0,95000.0,299000.0,3710.0
-Nova Scotia,Total properties owned,Quebec investor,55.0,60000.0,429000.0,90.0
-Nova Scotia,Total properties owned,Quebec skilled worker,45.0,125000.0,307000.0,230.0
-Nova Scotia,Total properties owned,Sponsored child,48.0,100000.0,238000.0,125.0
-Nova Scotia,Total properties owned,Sponsored parent or grandparent,61.0,60000.0,291000.0,285.0
-Nova Scotia,Total properties owned,Sponsored spouse or partner,50.0,100000.0,266000.0,4520.0
-Nova Scotia,Total properties owned,Unspecified admission category,0.0,0.0,0.0,0.0
-Nova Scotia,Total properties owned,Unspecified place of birth,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Africa,0.0,0.0,0.0,5.0
-Nunavut,Multiple-property owner,America,0.0,0.0,0.0,5.0
-Nunavut,Multiple-property owner,Asia,0.0,0.0,0.0,10.0
-Nunavut,Multiple-property owner,Caregiver,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Europe,0.0,0.0,0.0,5.0
-Nunavut,Multiple-property owner,Federal skilled worker,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Government-assisted refugee,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Oceania,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Other admission category,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Other economic admission category,0.0,0.0,0.0,5.0
-Nunavut,Multiple-property owner,Other family sponsorship admission category,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Other places of birth,0.0,0.0,0.0,5.0
-Nunavut,Multiple-property owner,Other refugee admission category,0.0,0.0,0.0,5.0
-Nunavut,Multiple-property owner,Privately sponsored refugee,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Protected refugee in Canada,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Provincial and territorial nominee,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Quebec skilled worker,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Sponsored child,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Sponsored parent or grandparent,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Sponsored spouse or partner,0.0,0.0,0.0,5.0
-Nunavut,Multiple-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Nunavut,Multiple-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Nunavut,Single-property owner,Africa,47.0,270000.0,159000.0,25.0
-Nunavut,Single-property owner,America,46.0,200000.0,111000.0,30.0
-Nunavut,Single-property owner,Asia,45.0,190000.0,150000.0,60.0
-Nunavut,Single-property owner,Caregiver,0.0,0.0,0.0,15.0
-Nunavut,Single-property owner,Europe,54.0,170000.0,165000.0,40.0
-Nunavut,Single-property owner,Federal skilled worker,48.0,190000.0,130000.0,30.0
-Nunavut,Single-property owner,Government-assisted refugee,0.0,0.0,0.0,0.0
-Nunavut,Single-property owner,Oceania,0.0,0.0,0.0,0.0
-Nunavut,Single-property owner,Other admission category,0.0,0.0,0.0,5.0
-Nunavut,Single-property owner,Other economic admission category,0.0,0.0,0.0,5.0
-Nunavut,Single-property owner,Other family sponsorship admission category,0.0,0.0,0.0,0.0
-Nunavut,Single-property owner,Other places of birth,0.0,0.0,0.0,5.0
-Nunavut,Single-property owner,Other refugee admission category,0.0,0.0,0.0,0.0
-Nunavut,Single-property owner,Privately sponsored refugee,0.0,0.0,0.0,5.0
-Nunavut,Single-property owner,Protected refugee in Canada,0.0,0.0,0.0,15.0
-Nunavut,Single-property owner,Provincial and territorial nominee,0.0,0.0,0.0,5.0
-Nunavut,Single-property owner,Quebec skilled worker,0.0,0.0,0.0,5.0
-Nunavut,Single-property owner,Sponsored child,0.0,0.0,0.0,5.0
-Nunavut,Single-property owner,Sponsored parent or grandparent,0.0,0.0,0.0,0.0
-Nunavut,Single-property owner,Sponsored spouse or partner,42.0,230000.0,169000.0,40.0
-Nunavut,Single-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Nunavut,Single-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Nunavut,Total properties owned,Africa,47.0,270000.0,169000.0,30.0
-Nunavut,Total properties owned,America,46.0,195000.0,136000.0,35.0
-Nunavut,Total properties owned,Asia,46.0,205000.0,155000.0,70.0
-Nunavut,Total properties owned,Caregiver,0.0,0.0,0.0,15.0
-Nunavut,Total properties owned,Europe,54.0,170000.0,165000.0,45.0
-Nunavut,Total properties owned,Federal skilled worker,49.0,190000.0,130000.0,30.0
-Nunavut,Total properties owned,Government-assisted refugee,0.0,0.0,0.0,0.0
-Nunavut,Total properties owned,Oceania,0.0,0.0,0.0,0.0
-Nunavut,Total properties owned,Other admission category,0.0,0.0,0.0,5.0
-Nunavut,Total properties owned,Other economic admission category,0.0,0.0,0.0,10.0
-Nunavut,Total properties owned,Other family sponsorship admission category,0.0,0.0,0.0,0.0
-Nunavut,Total properties owned,Other places of birth,0.0,0.0,0.0,10.0
-Nunavut,Total properties owned,Other refugee admission category,0.0,0.0,0.0,5.0
-Nunavut,Total properties owned,Privately sponsored refugee,0.0,0.0,0.0,5.0
-Nunavut,Total properties owned,Protected refugee in Canada,0.0,0.0,0.0,15.0
-Nunavut,Total properties owned,Provincial and territorial nominee,0.0,0.0,0.0,5.0
-Nunavut,Total properties owned,Quebec skilled worker,0.0,0.0,0.0,5.0
-Nunavut,Total properties owned,Sponsored child,0.0,0.0,0.0,5.0
-Nunavut,Total properties owned,Sponsored parent or grandparent,0.0,0.0,0.0,0.0
-Nunavut,Total properties owned,Sponsored spouse or partner,42.0,240000.0,184000.0,45.0
-Nunavut,Total properties owned,Unspecified admission category,0.0,0.0,0.0,0.0
-Nunavut,Total properties owned,Unspecified place of birth,0.0,0.0,0.0,0.0
-Ontario,Multiple-property owner,Africa,54.0,155000.0,1130000.0,13315.0
-Ontario,Multiple-property owner,America,55.0,130000.0,954000.0,28365.0
-Ontario,Multiple-property owner,Asia,50.0,125000.0,1220000.0,175200.0
-Ontario,Multiple-property owner,Caregiver,53.0,115000.0,902000.0,2375.0
-Ontario,Multiple-property owner,Europe,57.0,125000.0,993000.0,71070.0
-Ontario,Multiple-property owner,Federal entrepreneur,52.0,110000.0,1360000.0,6060.0
-Ontario,Multiple-property owner,Federal investor,51.0,75000.0,1670000.0,2830.0
-Ontario,Multiple-property owner,Federal skilled worker,52.0,145000.0,1170000.0,112135.0
-Ontario,Multiple-property owner,Government-assisted refugee,55.0,115000.0,914000.0,8350.0
-Ontario,Multiple-property owner,Oceania,53.0,170000.0,966000.0,930.0
-Ontario,Multiple-property owner,Other admission category,51.0,100000.0,1210000.0,2515.0
-Ontario,Multiple-property owner,Other economic admission category,39.0,125000.0,1050000.0,6485.0
-Ontario,Multiple-property owner,Other family sponsorship admission category,41.0,100000.0,1060000.0,1360.0
-Ontario,Multiple-property owner,Other places of birth,72.0,95000.0,935000.0,20270.0
-Ontario,Multiple-property owner,Other refugee admission category,40.0,85000.0,1160000.0,1980.0
-Ontario,Multiple-property owner,Privately sponsored refugee,55.0,110000.0,988000.0,10570.0
-Ontario,Multiple-property owner,Protected refugee in Canada,49.0,95000.0,1150000.0,9815.0
-Ontario,Multiple-property owner,Provincial and territorial nominee,42.0,105000.0,1280000.0,3910.0
-Ontario,Multiple-property owner,Quebec investor,51.0,60000.0,1850000.0,2935.0
-Ontario,Multiple-property owner,Quebec skilled worker,44.0,150000.0,1030000.0,2905.0
-Ontario,Multiple-property owner,Sponsored child,46.0,130000.0,994000.0,3990.0
-Ontario,Multiple-property owner,Sponsored parent or grandparent,51.0,100000.0,1120000.0,13635.0
-Ontario,Multiple-property owner,Sponsored spouse or partner,48.0,120000.0,1100000.0,45280.0
-Ontario,Multiple-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Ontario,Multiple-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Ontario,Single-property owner,Africa,53.0,115000.0,492000.0,76190.0
-Ontario,Single-property owner,America,55.0,105000.0,458000.0,210685.0
-Ontario,Single-property owner,Asia,50.0,95000.0,550000.0,782900.0
-Ontario,Single-property owner,Caregiver,51.0,95000.0,401000.0,31090.0
-Ontario,Single-property owner,Europe,58.0,100000.0,466000.0,361155.0
-Ontario,Single-property owner,Federal entrepreneur,56.0,80000.0,669000.0,23305.0
-Ontario,Single-property owner,Federal investor,51.0,60000.0,758000.0,8805.0
-Ontario,Single-property owner,Federal skilled worker,52.0,115000.0,532000.0,467970.0
-Ontario,Single-property owner,Government-assisted refugee,55.0,90000.0,418000.0,47525.0
-Ontario,Single-property owner,Oceania,52.0,130000.0,495000.0,5195.0
-Ontario,Single-property owner,Other admission category,52.0,70000.0,527000.0,13820.0
-Ontario,Single-property owner,Other economic admission category,37.0,115000.0,476000.0,37055.0
-Ontario,Single-property owner,Other family sponsorship admission category,41.0,85000.0,463000.0,8745.0
-Ontario,Single-property owner,Other places of birth,75.0,70000.0,433000.0,102980.0
-Ontario,Single-property owner,Other refugee admission category,40.0,70000.0,542000.0,12985.0
-Ontario,Single-property owner,Privately sponsored refugee,55.0,90000.0,480000.0,53735.0
-Ontario,Single-property owner,Protected refugee in Canada,49.0,75000.0,513000.0,51575.0
-Ontario,Single-property owner,Provincial and territorial nominee,38.0,95000.0,497000.0,23825.0
-Ontario,Single-property owner,Quebec investor,51.0,50000.0,817000.0,9230.0
-Ontario,Single-property owner,Quebec skilled worker,43.0,120000.0,464000.0,17140.0
-Ontario,Single-property owner,Sponsored child,45.0,100000.0,472000.0,26030.0
-Ontario,Single-property owner,Sponsored parent or grandparent,54.0,70000.0,533000.0,77530.0
-Ontario,Single-property owner,Sponsored spouse or partner,47.0,95000.0,508000.0,250590.0
-Ontario,Single-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Ontario,Single-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Ontario,Total properties owned,Africa,53.0,120000.0,528000.0,89505.0
-Ontario,Total properties owned,America,55.0,105000.0,480000.0,239050.0
-Ontario,Total properties owned,Asia,50.0,100000.0,593000.0,958100.0
-Ontario,Total properties owned,Caregiver,51.0,95000.0,414000.0,33465.0
-Ontario,Total properties owned,Europe,58.0,105000.0,510000.0,432225.0
-Ontario,Total properties owned,Federal entrepreneur,55.0,85000.0,733000.0,29355.0
-Ontario,Total properties owned,Federal investor,51.0,65000.0,860000.0,11640.0
-Ontario,Total properties owned,Federal skilled worker,52.0,120000.0,579000.0,580110.0
-Ontario,Total properties owned,Government-assisted refugee,55.0,95000.0,455000.0,55885.0
-Ontario,Total properties owned,Oceania,52.0,135000.0,528000.0,6125.0
-Ontario,Total properties owned,Other admission category,52.0,75000.0,568000.0,16335.0
-Ontario,Total properties owned,Other economic admission category,37.0,120000.0,509000.0,43540.0
-Ontario,Total properties owned,Other family sponsorship admission category,41.0,85000.0,485000.0,10105.0
-Ontario,Total properties owned,Other places of birth,74.0,75000.0,480000.0,123250.0
-Ontario,Total properties owned,Other refugee admission category,40.0,75000.0,565000.0,14965.0
-Ontario,Total properties owned,Privately sponsored refugee,55.0,95000.0,518000.0,64305.0
-Ontario,Total properties owned,Protected refugee in Canada,49.0,80000.0,544000.0,61390.0
-Ontario,Total properties owned,Provincial and territorial nominee,39.0,95000.0,530000.0,27740.0
-Ontario,Total properties owned,Quebec investor,51.0,50000.0,944000.0,12165.0
-Ontario,Total properties owned,Quebec skilled worker,43.0,125000.0,495000.0,20045.0
-Ontario,Total properties owned,Sponsored child,45.0,105000.0,497000.0,30020.0
-Ontario,Total properties owned,Sponsored parent or grandparent,54.0,75000.0,561000.0,91165.0
-Ontario,Total properties owned,Sponsored spouse or partner,48.0,100000.0,539000.0,295870.0
-Ontario,Total properties owned,Unspecified admission category,0.0,0.0,0.0,0.0
-Ontario,Total properties owned,Unspecified place of birth,0.0,0.0,0.0,0.0
-Yukon,Multiple-property owner,Africa,0.0,0.0,0.0,15.0
-Yukon,Multiple-property owner,America,69.0,120000.0,364000.0,40.0
-Yukon,Multiple-property owner,Asia,54.0,160000.0,554000.0,90.0
-Yukon,Multiple-property owner,Caregiver,0.0,0.0,0.0,5.0
-Yukon,Multiple-property owner,Europe,53.0,140000.0,386000.0,75.0
-Yukon,Multiple-property owner,Federal entrepreneur,0.0,0.0,0.0,10.0
-Yukon,Multiple-property owner,Federal skilled worker,53.0,140000.0,505000.0,45.0
-Yukon,Multiple-property owner,Government-assisted refugee,0.0,0.0,0.0,5.0
-Yukon,Multiple-property owner,Oceania,0.0,0.0,0.0,5.0
-Yukon,Multiple-property owner,Other admission category,0.0,0.0,0.0,5.0
-Yukon,Multiple-property owner,Other economic admission category,0.0,0.0,0.0,5.0
-Yukon,Multiple-property owner,Other family sponsorship admission category,0.0,0.0,0.0,0.0
-Yukon,Multiple-property owner,Other places of birth,71.0,115000.0,362000.0,30.0
-Yukon,Multiple-property owner,Other refugee admission category,0.0,0.0,0.0,0.0
-Yukon,Multiple-property owner,Privately sponsored refugee,0.0,0.0,0.0,10.0
-Yukon,Multiple-property owner,Protected refugee in Canada,0.0,0.0,0.0,0.0
-Yukon,Multiple-property owner,Provincial and territorial nominee,0.0,0.0,0.0,20.0
-Yukon,Multiple-property owner,Quebec investor,0.0,0.0,0.0,0.0
-Yukon,Multiple-property owner,Quebec skilled worker,0.0,0.0,0.0,0.0
-Yukon,Multiple-property owner,Sponsored child,0.0,0.0,0.0,0.0
-Yukon,Multiple-property owner,Sponsored parent or grandparent,0.0,0.0,0.0,5.0
-Yukon,Multiple-property owner,Sponsored spouse or partner,52.0,150000.0,479000.0,50.0
-Yukon,Multiple-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Yukon,Multiple-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Yukon,Single-property owner,Africa,47.0,140000.0,259000.0,50.0
-Yukon,Single-property owner,America,54.0,125000.0,229000.0,180.0
-Yukon,Single-property owner,Asia,44.0,130000.0,226000.0,535.0
-Yukon,Single-property owner,Caregiver,48.0,140000.0,224000.0,50.0
-Yukon,Single-property owner,Europe,52.0,135000.0,238000.0,400.0
-Yukon,Single-property owner,Federal entrepreneur,0.0,0.0,0.0,15.0
-Yukon,Single-property owner,Federal skilled worker,49.0,155000.0,249000.0,210.0
-Yukon,Single-property owner,Government-assisted refugee,0.0,0.0,0.0,15.0
-Yukon,Single-property owner,Oceania,53.0,145000.0,226000.0,50.0
-Yukon,Single-property owner,Other admission category,0.0,0.0,0.0,5.0
-Yukon,Single-property owner,Other economic admission category,47.0,105000.0,225000.0,30.0
-Yukon,Single-property owner,Other family sponsorship admission category,0.0,0.0,0.0,10.0
-Yukon,Single-property owner,Other places of birth,69.0,85000.0,229000.0,110.0
-Yukon,Single-property owner,Other refugee admission category,0.0,0.0,0.0,0.0
-Yukon,Single-property owner,Privately sponsored refugee,0.0,0.0,0.0,10.0
-Yukon,Single-property owner,Protected refugee in Canada,0.0,0.0,0.0,15.0
-Yukon,Single-property owner,Provincial and territorial nominee,40.0,125000.0,207000.0,310.0
-Yukon,Single-property owner,Quebec investor,0.0,0.0,0.0,5.0
-Yukon,Single-property owner,Quebec skilled worker,0.0,0.0,0.0,20.0
-Yukon,Single-property owner,Sponsored child,0.0,0.0,0.0,15.0
-Yukon,Single-property owner,Sponsored parent or grandparent,0.0,0.0,0.0,15.0
-Yukon,Single-property owner,Sponsored spouse or partner,47.0,135000.0,239000.0,270.0
-Yukon,Single-property owner,Unspecified admission category,0.0,0.0,0.0,0.0
-Yukon,Single-property owner,Unspecified place of birth,0.0,0.0,0.0,0.0
-Yukon,Total properties owned,Africa,47.0,140000.0,271000.0,65.0
-Yukon,Total properties owned,America,55.0,120000.0,251000.0,220.0
-Yukon,Total properties owned,Asia,45.0,135000.0,242000.0,630.0
-Yukon,Total properties owned,Caregiver,49.0,145000.0,252000.0,55.0
-Yukon,Total properties owned,Europe,53.0,135000.0,249000.0,480.0
-Yukon,Total properties owned,Federal entrepreneur,47.0,105000.0,249000.0,25.0
-Yukon,Total properties owned,Federal skilled worker,50.0,155000.0,261000.0,255.0
-Yukon,Total properties owned,Government-assisted refugee,0.0,0.0,0.0,20.0
-Yukon,Total properties owned,Oceania,52.0,145000.0,229000.0,55.0
-Yukon,Total properties owned,Other admission category,0.0,0.0,0.0,10.0
-Yukon,Total properties owned,Other economic admission category,49.0,115000.0,269000.0,35.0
-Yukon,Total properties owned,Other family sponsorship admission category,0.0,0.0,0.0,10.0
-Yukon,Total properties owned,Other places of birth,69.0,95000.0,241000.0,140.0
-Yukon,Total properties owned,Other refugee admission category,0.0,0.0,0.0,0.0
-Yukon,Total properties owned,Privately sponsored refugee,0.0,160000.0,292000.0,20.0
-Yukon,Total properties owned,Protected refugee in Canada,0.0,0.0,0.0,15.0
-Yukon,Total properties owned,Provincial and territorial nominee,40.0,125000.0,209000.0,330.0
-Yukon,Total properties owned,Quebec investor,0.0,0.0,0.0,5.0
-Yukon,Total properties owned,Quebec skilled worker,0.0,0.0,0.0,20.0
-Yukon,Total properties owned,Sponsored child,0.0,0.0,0.0,15.0
-Yukon,Total properties owned,Sponsored parent or grandparent,54.0,0.0,297000.0,20.0
-Yukon,Total properties owned,Sponsored spouse or partner,48.0,135000.0,259000.0,320.0
-Yukon,Total properties owned,Unspecified admission category,0.0,0.0,0.0,0.0
-Yukon,Total properties owned,Unspecified place of birth,0.0,0.0,0.0,0.0
+British Columbia,Multiple-property owner,Caregiver,52,115000,1420000,980
+British Columbia,Multiple-property owner,Federal entrepreneur,56,95000,2210000,3565
+British Columbia,Multiple-property owner,Federal investor,52,75000,2810000,3405
+British Columbia,Multiple-property owner,Federal skilled worker,53,130000,1830000,27325
+British Columbia,Multiple-property owner,Government-assisted refugee,55,115000,1660000,2175
+British Columbia,Multiple-property owner,Other admission category,55,90000,2190000,1120
+British Columbia,Multiple-property owner,Other economic admission category,45,105000,1740000,2110
+British Columbia,Multiple-property owner,Other family sponsorship admission category,41,110000,1680000,400
+British Columbia,Multiple-property owner,Other refugee admission category,41,100000,1770000,195
+British Columbia,Multiple-property owner,Privately sponsored refugee,56,115000,1740000,1710
+British Columbia,Multiple-property owner,Protected refugee in Canada,52,100000,1840000,895
+British Columbia,Multiple-property owner,Provincial and territorial nominee,42,110000,1780000,3505
+British Columbia,Multiple-property owner,Quebec investor,52,65000,3500000,2620
+British Columbia,Multiple-property owner,Quebec skilled worker,45,130000,1630000,530
+British Columbia,Multiple-property owner,Sponsored child,48,125000,1910000,1005
+British Columbia,Multiple-property owner,Sponsored parent or grandparent,52,100000,2000000,7435
+British Columbia,Multiple-property owner,Sponsored spouse or partner,50,120000,1880000,18070
+British Columbia,Multiple-property owner,Unspecified admission category,0,0,0,0
+British Columbia,Single-property owner,Caregiver,50,105000,569000,12390
+British Columbia,Single-property owner,Federal entrepreneur,60,65000,976000,17125
+British Columbia,Single-property owner,Federal investor,54,50000,1220000,14975
+British Columbia,Single-property owner,Federal skilled worker,53,105000,810000,130450
+British Columbia,Single-property owner,Government-assisted refugee,55,90000,756000,11290
+British Columbia,Single-property owner,Other admission category,60,55000,995000,5845
+British Columbia,Single-property owner,Other economic admission category,41,95000,721000,12700
+British Columbia,Single-property owner,Other family sponsorship admission category,41,95000,712000,2180
+British Columbia,Single-property owner,Other refugee admission category,42,85000,830000,1245
+British Columbia,Single-property owner,Privately sponsored refugee,55,90000,804000,8245
+British Columbia,Single-property owner,Protected refugee in Canada,51,80000,766000,4505
+British Columbia,Single-property owner,Provincial and territorial nominee,41,100000,697000,25015
+British Columbia,Single-property owner,Quebec investor,52,50000,1470000,10410
+British Columbia,Single-property owner,Quebec skilled worker,43,110000,680000,3395
+British Columbia,Single-property owner,Sponsored child,47,100000,791000,4745
+British Columbia,Single-property owner,Sponsored parent or grandparent,58,60000,882000,34710
+British Columbia,Single-property owner,Sponsored spouse or partner,48,95000,807000,83320
+British Columbia,Single-property owner,Unspecified admission category,0,0,0,0
+British Columbia,Total properties owned,Caregiver,50,105000,592000,13370
+British Columbia,Total properties owned,Federal entrepreneur,60,70000,1110000,20690
+British Columbia,Total properties owned,Federal investor,54,55000,1400000,18380
+British Columbia,Total properties owned,Federal skilled worker,53,110000,915000,157775
+British Columbia,Total properties owned,Government-assisted refugee,55,90000,836000,13460
+British Columbia,Total properties owned,Other admission category,58,60000,1130000,6965
+British Columbia,Total properties owned,Other economic admission category,41,95000,793000,14810
+British Columbia,Total properties owned,Other family sponsorship admission category,41,95000,792000,2580
+British Columbia,Total properties owned,Other refugee admission category,42,85000,877000,1440
+British Columbia,Total properties owned,Privately sponsored refugee,55,90000,883000,9955
+British Columbia,Total properties owned,Protected refugee in Canada,51,85000,854000,5400
+British Columbia,Total properties owned,Provincial and territorial nominee,41,105000,762000,28525
+British Columbia,Total properties owned,Quebec investor,52,50000,1730000,13030
+British Columbia,Total properties owned,Quebec skilled worker,44,115000,747000,3925
+British Columbia,Total properties owned,Sponsored child,47,105000,884000,5750
+British Columbia,Total properties owned,Sponsored parent or grandparent,56,65000,978000,42145
+British Columbia,Total properties owned,Sponsored spouse or partner,48,100000,893000,101390
+British Columbia,Total properties owned,Unspecified admission category,0,0,0,0
+Manitoba,Multiple-property owner,Caregiver,55,95000,495000,65
+Manitoba,Multiple-property owner,Federal entrepreneur,56,120000,651000,45
+Manitoba,Multiple-property owner,Federal investor,0,0,0,10
+Manitoba,Multiple-property owner,Federal skilled worker,54,140000,640000,1685
+Manitoba,Multiple-property owner,Government-assisted refugee,55,95000,601000,485
+Manitoba,Multiple-property owner,Other admission category,49,115000,585000,20
+Manitoba,Multiple-property owner,Other economic admission category,50,120000,561000,150
+Manitoba,Multiple-property owner,Other family sponsorship admission category,42,115000,575000,45
+Manitoba,Multiple-property owner,Other refugee admission category,0,0,0,15
+Manitoba,Multiple-property owner,Privately sponsored refugee,54,100000,557000,415
+Manitoba,Multiple-property owner,Protected refugee in Canada,51,95000,630000,85
+Manitoba,Multiple-property owner,Provincial and territorial nominee,44,100000,552000,2985
+Manitoba,Multiple-property owner,Quebec investor,0,0,0,5
+Manitoba,Multiple-property owner,Quebec skilled worker,43,125000,598000,40
+Manitoba,Multiple-property owner,Sponsored child,46,120000,572000,155
+Manitoba,Multiple-property owner,Sponsored parent or grandparent,52,100000,594000,465
+Manitoba,Multiple-property owner,Sponsored spouse or partner,49,110000,602000,1525
+Manitoba,Multiple-property owner,Unspecified admission category,0,0,0,0
+Manitoba,Single-property owner,Caregiver,51,90000,240000,910
+Manitoba,Single-property owner,Federal entrepreneur,54,90000,393000,190
+Manitoba,Single-property owner,Federal investor,42,85000,329000,30
+Manitoba,Single-property owner,Federal skilled worker,53,115000,309000,9030
+Manitoba,Single-property owner,Government-assisted refugee,54,90000,277000,3135
+Manitoba,Single-property owner,Other admission category,45,70000,278000,100
+Manitoba,Single-property owner,Other economic admission category,41,100000,292000,685
+Manitoba,Single-property owner,Other family sponsorship admission category,41,95000,286000,350
+Manitoba,Single-property owner,Other refugee admission category,39,90000,276000,110
+Manitoba,Single-property owner,Privately sponsored refugee,53,85000,283000,2580
+Manitoba,Single-property owner,Protected refugee in Canada,50,90000,290000,365
+Manitoba,Single-property owner,Provincial and territorial nominee,44,95000,263000,31890
+Manitoba,Single-property owner,Quebec investor,38,75000,403000,30
+Manitoba,Single-property owner,Quebec skilled worker,43,120000,340000,205
+Manitoba,Single-property owner,Sponsored child,48,105000,272000,1060
+Manitoba,Single-property owner,Sponsored parent or grandparent,55,90000,284000,3020
+Manitoba,Single-property owner,Sponsored spouse or partner,47,95000,284000,10125
+Manitoba,Single-property owner,Unspecified admission category,0,0,0,0
+Manitoba,Total properties owned,Caregiver,51,90000,245000,975
+Manitoba,Total properties owned,Federal entrepreneur,55,90000,413000,235
+Manitoba,Total properties owned,Federal investor,42,105000,404000,30
+Manitoba,Total properties owned,Federal skilled worker,53,120000,338000,10715
+Manitoba,Total properties owned,Government-assisted refugee,54,90000,292000,3620
+Manitoba,Total properties owned,Other admission category,46,75000,294000,125
+Manitoba,Total properties owned,Other economic admission category,44,105000,315000,835
+Manitoba,Total properties owned,Other family sponsorship admission category,42,100000,296000,395
+Manitoba,Total properties owned,Other refugee admission category,40,90000,288000,125
+Manitoba,Total properties owned,Privately sponsored refugee,53,90000,298000,2995
+Manitoba,Total properties owned,Protected refugee in Canada,50,90000,319000,450
+Manitoba,Total properties owned,Provincial and territorial nominee,44,95000,271000,34875
+Manitoba,Total properties owned,Quebec investor,40,75000,409000,35
+Manitoba,Total properties owned,Quebec skilled worker,43,120000,356000,245
+Manitoba,Total properties owned,Sponsored child,48,105000,288000,1215
+Manitoba,Total properties owned,Sponsored parent or grandparent,54,90000,298000,3485
+Manitoba,Total properties owned,Sponsored spouse or partner,47,95000,300000,11650
+Manitoba,Total properties owned,Unspecified admission category,0,0,0,0
+New Brunswick,Multiple-property owner,Caregiver,0,0,0,10
+New Brunswick,Multiple-property owner,Federal entrepreneur,60,55000,268000,35
+New Brunswick,Multiple-property owner,Federal investor,0,0,0,0
+New Brunswick,Multiple-property owner,Federal skilled worker,56,110000,351000,310
+New Brunswick,Multiple-property owner,Government-assisted refugee,58,115000,372000,45
+New Brunswick,Multiple-property owner,Other admission category,0,0,0,10
+New Brunswick,Multiple-property owner,Other economic admission category,50,80000,319000,85
+New Brunswick,Multiple-property owner,Other family sponsorship admission category,0,0,0,10
+New Brunswick,Multiple-property owner,Other refugee admission category,0,0,0,0
+New Brunswick,Multiple-property owner,Privately sponsored refugee,58,90000,287000,25
+New Brunswick,Multiple-property owner,Protected refugee in Canada,0,0,0,10
+New Brunswick,Multiple-property owner,Provincial and territorial nominee,48,80000,315000,305
+New Brunswick,Multiple-property owner,Quebec investor,0,0,0,0
+New Brunswick,Multiple-property owner,Quebec skilled worker,45,150000,369000,40
+New Brunswick,Multiple-property owner,Sponsored child,0,0,0,10
+New Brunswick,Multiple-property owner,Sponsored parent or grandparent,0,0,0,15
+New Brunswick,Multiple-property owner,Sponsored spouse or partner,53,100000,253000,350
+New Brunswick,Multiple-property owner,Unspecified admission category,0,0,0,0
+New Brunswick,Single-property owner,Caregiver,50,80000,144000,135
+New Brunswick,Single-property owner,Federal entrepreneur,60,80000,158000,95
+New Brunswick,Single-property owner,Federal investor,0,0,0,10
+New Brunswick,Single-property owner,Federal skilled worker,52,115000,215000,1915
+New Brunswick,Single-property owner,Government-assisted refugee,50,85000,177000,370
+New Brunswick,Single-property owner,Other admission category,60,65000,155000,45
+New Brunswick,Single-property owner,Other economic admission category,40,90000,195000,520
+New Brunswick,Single-property owner,Other family sponsorship admission category,43,80000,160000,60
+New Brunswick,Single-property owner,Other refugee admission category,38,85000,165000,25
+New Brunswick,Single-property owner,Privately sponsored refugee,56,110000,187000,130
+New Brunswick,Single-property owner,Protected refugee in Canada,51,100000,173000,110
+New Brunswick,Single-property owner,Provincial and territorial nominee,45,80000,191000,3360
+New Brunswick,Single-property owner,Quebec investor,0,0,0,5
+New Brunswick,Single-property owner,Quebec skilled worker,46,120000,189000,280
+New Brunswick,Single-property owner,Sponsored child,42,110000,193000,75
+New Brunswick,Single-property owner,Sponsored parent or grandparent,55,70000,194000,80
+New Brunswick,Single-property owner,Sponsored spouse or partner,50,95000,166000,2150
+New Brunswick,Single-property owner,Unspecified admission category,0,0,0,0
+New Brunswick,Total properties owned,Caregiver,50,80000,146000,145
+New Brunswick,Total properties owned,Federal entrepreneur,60,65000,189000,130
+New Brunswick,Total properties owned,Federal investor,0,0,0,10
+New Brunswick,Total properties owned,Federal skilled worker,53,110000,227000,2225
+New Brunswick,Total properties owned,Government-assisted refugee,50,90000,183000,415
+New Brunswick,Total properties owned,Other admission category,57,65000,157000,55
+New Brunswick,Total properties owned,Other economic admission category,41,85000,204000,605
+New Brunswick,Total properties owned,Other family sponsorship admission category,43,80000,160000,70
+New Brunswick,Total properties owned,Other refugee admission category,39,85000,170000,25
+New Brunswick,Total properties owned,Privately sponsored refugee,57,105000,209000,155
+New Brunswick,Total properties owned,Protected refugee in Canada,52,105000,181000,120
+New Brunswick,Total properties owned,Provincial and territorial nominee,45,80000,197000,3665
+New Brunswick,Total properties owned,Quebec investor,0,0,0,5
+New Brunswick,Total properties owned,Quebec skilled worker,45,120000,200000,320
+New Brunswick,Total properties owned,Sponsored child,43,105000,203000,85
+New Brunswick,Total properties owned,Sponsored parent or grandparent,54,75000,204000,95
+New Brunswick,Total properties owned,Sponsored spouse or partner,50,95000,173000,2500
+New Brunswick,Total properties owned,Unspecified admission category,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Caregiver,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Federal entrepreneur,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Federal investor,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Federal skilled worker,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Government-assisted refugee,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Other admission category,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Other economic admission category,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Other family sponsorship admission category,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Other refugee admission category,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Privately sponsored refugee,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Protected refugee in Canada,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Provincial and territorial nominee,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Quebec investor,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Quebec skilled worker,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Sponsored child,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Sponsored parent or grandparent,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Sponsored spouse or partner,0,0,0,0
+Newfoundland and Labrador,Multiple-property owner,Unspecified admission category,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Caregiver,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Federal entrepreneur,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Federal investor,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Federal skilled worker,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Government-assisted refugee,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Other admission category,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Other economic admission category,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Other family sponsorship admission category,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Other refugee admission category,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Privately sponsored refugee,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Protected refugee in Canada,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Provincial and territorial nominee,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Quebec investor,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Quebec skilled worker,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Sponsored child,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Sponsored parent or grandparent,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Sponsored spouse or partner,0,0,0,0
+Newfoundland and Labrador,Single-property owner,Unspecified admission category,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Caregiver,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Federal entrepreneur,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Federal investor,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Federal skilled worker,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Government-assisted refugee,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Other admission category,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Other economic admission category,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Other family sponsorship admission category,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Other refugee admission category,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Privately sponsored refugee,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Protected refugee in Canada,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Provincial and territorial nominee,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Quebec investor,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Quebec skilled worker,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Sponsored child,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Sponsored parent or grandparent,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Sponsored spouse or partner,0,0,0,0
+Newfoundland and Labrador,Total properties owned,Unspecified admission category,0,0,0,0
+Northwest Territories,Multiple-property owner,Caregiver,0,0,0,0
+Northwest Territories,Multiple-property owner,Federal entrepreneur,0,0,0,0
+Northwest Territories,Multiple-property owner,Federal investor,0,0,0,0
+Northwest Territories,Multiple-property owner,Federal skilled worker,0,0,0,0
+Northwest Territories,Multiple-property owner,Government-assisted refugee,0,0,0,0
+Northwest Territories,Multiple-property owner,Other admission category,0,0,0,0
+Northwest Territories,Multiple-property owner,Other economic admission category,0,0,0,0
+Northwest Territories,Multiple-property owner,Other family sponsorship admission category,0,0,0,0
+Northwest Territories,Multiple-property owner,Other refugee admission category,0,0,0,0
+Northwest Territories,Multiple-property owner,Privately sponsored refugee,0,0,0,0
+Northwest Territories,Multiple-property owner,Protected refugee in Canada,0,0,0,0
+Northwest Territories,Multiple-property owner,Provincial and territorial nominee,0,0,0,0
+Northwest Territories,Multiple-property owner,Quebec investor,0,0,0,0
+Northwest Territories,Multiple-property owner,Quebec skilled worker,0,0,0,0
+Northwest Territories,Multiple-property owner,Sponsored child,0,0,0,0
+Northwest Territories,Multiple-property owner,Sponsored parent or grandparent,0,0,0,0
+Northwest Territories,Multiple-property owner,Sponsored spouse or partner,0,0,0,0
+Northwest Territories,Multiple-property owner,Unspecified admission category,0,0,0,0
+Northwest Territories,Single-property owner,Caregiver,0,0,0,0
+Northwest Territories,Single-property owner,Federal entrepreneur,0,0,0,0
+Northwest Territories,Single-property owner,Federal investor,0,0,0,0
+Northwest Territories,Single-property owner,Federal skilled worker,0,0,0,0
+Northwest Territories,Single-property owner,Government-assisted refugee,0,0,0,0
+Northwest Territories,Single-property owner,Other admission category,0,0,0,0
+Northwest Territories,Single-property owner,Other economic admission category,0,0,0,0
+Northwest Territories,Single-property owner,Other family sponsorship admission category,0,0,0,0
+Northwest Territories,Single-property owner,Other refugee admission category,0,0,0,0
+Northwest Territories,Single-property owner,Privately sponsored refugee,0,0,0,0
+Northwest Territories,Single-property owner,Protected refugee in Canada,0,0,0,0
+Northwest Territories,Single-property owner,Provincial and territorial nominee,0,0,0,0
+Northwest Territories,Single-property owner,Quebec investor,0,0,0,0
+Northwest Territories,Single-property owner,Quebec skilled worker,0,0,0,0
+Northwest Territories,Single-property owner,Sponsored child,0,0,0,0
+Northwest Territories,Single-property owner,Sponsored parent or grandparent,0,0,0,0
+Northwest Territories,Single-property owner,Sponsored spouse or partner,0,0,0,0
+Northwest Territories,Single-property owner,Unspecified admission category,0,0,0,0
+Northwest Territories,Total properties owned,Caregiver,0,0,0,0
+Northwest Territories,Total properties owned,Federal entrepreneur,0,0,0,0
+Northwest Territories,Total properties owned,Federal investor,0,0,0,0
+Northwest Territories,Total properties owned,Federal skilled worker,0,0,0,0
+Northwest Territories,Total properties owned,Government-assisted refugee,0,0,0,0
+Northwest Territories,Total properties owned,Other admission category,0,0,0,0
+Northwest Territories,Total properties owned,Other economic admission category,0,0,0,0
+Northwest Territories,Total properties owned,Other family sponsorship admission category,0,0,0,0
+Northwest Territories,Total properties owned,Other refugee admission category,0,0,0,0
+Northwest Territories,Total properties owned,Privately sponsored refugee,0,0,0,0
+Northwest Territories,Total properties owned,Protected refugee in Canada,0,0,0,0
+Northwest Territories,Total properties owned,Provincial and territorial nominee,0,0,0,0
+Northwest Territories,Total properties owned,Quebec investor,0,0,0,0
+Northwest Territories,Total properties owned,Quebec skilled worker,0,0,0,0
+Northwest Territories,Total properties owned,Sponsored child,0,0,0,0
+Northwest Territories,Total properties owned,Sponsored parent or grandparent,0,0,0,0
+Northwest Territories,Total properties owned,Sponsored spouse or partner,0,0,0,0
+Northwest Territories,Total properties owned,Unspecified admission category,0,0,0,0
+Nova Scotia,Multiple-property owner,Caregiver,0,0,0,15
+Nova Scotia,Multiple-property owner,Federal entrepreneur,63,55000,561000,140
+Nova Scotia,Multiple-property owner,Federal investor,0,0,0,20
+Nova Scotia,Multiple-property owner,Federal skilled worker,55,130000,556000,1030
+Nova Scotia,Multiple-property owner,Government-assisted refugee,52,115000,504000,70
+Nova Scotia,Multiple-property owner,Other admission category,0,0,0,15
+Nova Scotia,Multiple-property owner,Other economic admission category,57,65000,458000,135
+Nova Scotia,Multiple-property owner,Other family sponsorship admission category,0,100000,399000,20
+Nova Scotia,Multiple-property owner,Other refugee admission category,0,0,0,5
+Nova Scotia,Multiple-property owner,Privately sponsored refugee,60,100000,554000,55
+Nova Scotia,Multiple-property owner,Protected refugee in Canada,51,90000,570000,45
+Nova Scotia,Multiple-property owner,Provincial and territorial nominee,47,90000,490000,445
+Nova Scotia,Multiple-property owner,Quebec investor,0,0,1030000,20
+Nova Scotia,Multiple-property owner,Quebec skilled worker,48,130000,482000,40
+Nova Scotia,Multiple-property owner,Sponsored child,0,0,344000,20
+Nova Scotia,Multiple-property owner,Sponsored parent or grandparent,56,80000,436000,60
+Nova Scotia,Multiple-property owner,Sponsored spouse or partner,53,110000,441000,870
+Nova Scotia,Multiple-property owner,Unspecified admission category,0,0,0,0
+Nova Scotia,Single-property owner,Caregiver,49,90000,220000,165
+Nova Scotia,Single-property owner,Federal entrepreneur,60,70000,304000,415
+Nova Scotia,Single-property owner,Federal investor,54,70000,389000,90
+Nova Scotia,Single-property owner,Federal skilled worker,52,110000,290000,4475
+Nova Scotia,Single-property owner,Government-assisted refugee,53,85000,278000,530
+Nova Scotia,Single-property owner,Other admission category,53,70000,234000,85
+Nova Scotia,Single-property owner,Other economic admission category,41,95000,273000,645
+Nova Scotia,Single-property owner,Other family sponsorship admission category,44,90000,202000,95
+Nova Scotia,Single-property owner,Other refugee admission category,40,65000,178000,50
+Nova Scotia,Single-property owner,Privately sponsored refugee,56,85000,261000,245
+Nova Scotia,Single-property owner,Protected refugee in Canada,50,90000,240000,165
+Nova Scotia,Single-property owner,Provincial and territorial nominee,41,95000,290000,3265
+Nova Scotia,Single-property owner,Quebec investor,56,50000,384000,70
+Nova Scotia,Single-property owner,Quebec skilled worker,45,125000,273000,190
+Nova Scotia,Single-property owner,Sponsored child,45,95000,232000,105
+Nova Scotia,Single-property owner,Sponsored parent or grandparent,63,60000,257000,225
+Nova Scotia,Single-property owner,Sponsored spouse or partner,49,100000,248000,3650
+Nova Scotia,Single-property owner,Unspecified admission category,0,0,0,0
+Nova Scotia,Total properties owned,Caregiver,49,90000,220000,180
+Nova Scotia,Total properties owned,Federal entrepreneur,61,65000,328000,555
+Nova Scotia,Total properties owned,Federal investor,54,70000,399000,110
+Nova Scotia,Total properties owned,Federal skilled worker,53,115000,309000,5505
+Nova Scotia,Total properties owned,Government-assisted refugee,53,90000,289000,600
+Nova Scotia,Total properties owned,Other admission category,53,70000,253000,100
+Nova Scotia,Total properties owned,Other economic admission category,44,90000,282000,780
+Nova Scotia,Total properties owned,Other family sponsorship admission category,44,95000,226000,115
+Nova Scotia,Total properties owned,Other refugee admission category,42,70000,201000,50
+Nova Scotia,Total properties owned,Privately sponsored refugee,56,90000,282000,305
+Nova Scotia,Total properties owned,Protected refugee in Canada,50,90000,285000,210
+Nova Scotia,Total properties owned,Provincial and territorial nominee,42,95000,299000,3710
+Nova Scotia,Total properties owned,Quebec investor,55,60000,429000,90
+Nova Scotia,Total properties owned,Quebec skilled worker,45,125000,307000,230
+Nova Scotia,Total properties owned,Sponsored child,48,100000,238000,125
+Nova Scotia,Total properties owned,Sponsored parent or grandparent,61,60000,291000,285
+Nova Scotia,Total properties owned,Sponsored spouse or partner,50,100000,266000,4520
+Nova Scotia,Total properties owned,Unspecified admission category,0,0,0,0
+Nunavut,Multiple-property owner,Caregiver,0,0,0,0
+Nunavut,Multiple-property owner,Federal skilled worker,0,0,0,0
+Nunavut,Multiple-property owner,Government-assisted refugee,0,0,0,0
+Nunavut,Multiple-property owner,Other admission category,0,0,0,0
+Nunavut,Multiple-property owner,Other economic admission category,0,0,0,5
+Nunavut,Multiple-property owner,Other family sponsorship admission category,0,0,0,0
+Nunavut,Multiple-property owner,Other refugee admission category,0,0,0,5
+Nunavut,Multiple-property owner,Privately sponsored refugee,0,0,0,0
+Nunavut,Multiple-property owner,Protected refugee in Canada,0,0,0,0
+Nunavut,Multiple-property owner,Provincial and territorial nominee,0,0,0,0
+Nunavut,Multiple-property owner,Quebec skilled worker,0,0,0,0
+Nunavut,Multiple-property owner,Sponsored child,0,0,0,0
+Nunavut,Multiple-property owner,Sponsored parent or grandparent,0,0,0,0
+Nunavut,Multiple-property owner,Sponsored spouse or partner,0,0,0,5
+Nunavut,Multiple-property owner,Unspecified admission category,0,0,0,0
+Nunavut,Single-property owner,Caregiver,0,0,0,15
+Nunavut,Single-property owner,Federal skilled worker,48,190000,130000,30
+Nunavut,Single-property owner,Government-assisted refugee,0,0,0,0
+Nunavut,Single-property owner,Other admission category,0,0,0,5
+Nunavut,Single-property owner,Other economic admission category,0,0,0,5
+Nunavut,Single-property owner,Other family sponsorship admission category,0,0,0,0
+Nunavut,Single-property owner,Other refugee admission category,0,0,0,0
+Nunavut,Single-property owner,Privately sponsored refugee,0,0,0,5
+Nunavut,Single-property owner,Protected refugee in Canada,0,0,0,15
+Nunavut,Single-property owner,Provincial and territorial nominee,0,0,0,5
+Nunavut,Single-property owner,Quebec skilled worker,0,0,0,5
+Nunavut,Single-property owner,Sponsored child,0,0,0,5
+Nunavut,Single-property owner,Sponsored parent or grandparent,0,0,0,0
+Nunavut,Single-property owner,Sponsored spouse or partner,42,230000,169000,40
+Nunavut,Single-property owner,Unspecified admission category,0,0,0,0
+Nunavut,Total properties owned,Caregiver,0,0,0,15
+Nunavut,Total properties owned,Federal skilled worker,49,190000,130000,30
+Nunavut,Total properties owned,Government-assisted refugee,0,0,0,0
+Nunavut,Total properties owned,Other admission category,0,0,0,5
+Nunavut,Total properties owned,Other economic admission category,0,0,0,10
+Nunavut,Total properties owned,Other family sponsorship admission category,0,0,0,0
+Nunavut,Total properties owned,Other refugee admission category,0,0,0,5
+Nunavut,Total properties owned,Privately sponsored refugee,0,0,0,5
+Nunavut,Total properties owned,Protected refugee in Canada,0,0,0,15
+Nunavut,Total properties owned,Provincial and territorial nominee,0,0,0,5
+Nunavut,Total properties owned,Quebec skilled worker,0,0,0,5
+Nunavut,Total properties owned,Sponsored child,0,0,0,5
+Nunavut,Total properties owned,Sponsored parent or grandparent,0,0,0,0
+Nunavut,Total properties owned,Sponsored spouse or partner,42,240000,184000,45
+Nunavut,Total properties owned,Unspecified admission category,0,0,0,0
+Ontario,Multiple-property owner,Caregiver,53,115000,902000,2375
+Ontario,Multiple-property owner,Federal entrepreneur,52,110000,1360000,6060
+Ontario,Multiple-property owner,Federal investor,51,75000,1670000,2830
+Ontario,Multiple-property owner,Federal skilled worker,52,145000,1170000,112135
+Ontario,Multiple-property owner,Government-assisted refugee,55,115000,914000,8350
+Ontario,Multiple-property owner,Other admission category,51,100000,1210000,2515
+Ontario,Multiple-property owner,Other economic admission category,39,125000,1050000,6485
+Ontario,Multiple-property owner,Other family sponsorship admission category,41,100000,1060000,1360
+Ontario,Multiple-property owner,Other refugee admission category,40,85000,1160000,1980
+Ontario,Multiple-property owner,Privately sponsored refugee,55,110000,988000,10570
+Ontario,Multiple-property owner,Protected refugee in Canada,49,95000,1150000,9815
+Ontario,Multiple-property owner,Provincial and territorial nominee,42,105000,1280000,3910
+Ontario,Multiple-property owner,Quebec investor,51,60000,1850000,2935
+Ontario,Multiple-property owner,Quebec skilled worker,44,150000,1030000,2905
+Ontario,Multiple-property owner,Sponsored child,46,130000,994000,3990
+Ontario,Multiple-property owner,Sponsored parent or grandparent,51,100000,1120000,13635
+Ontario,Multiple-property owner,Sponsored spouse or partner,48,120000,1100000,45280
+Ontario,Multiple-property owner,Unspecified admission category,0,0,0,0
+Ontario,Single-property owner,Caregiver,51,95000,401000,31090
+Ontario,Single-property owner,Federal entrepreneur,56,80000,669000,23305
+Ontario,Single-property owner,Federal investor,51,60000,758000,8805
+Ontario,Single-property owner,Federal skilled worker,52,115000,532000,467970
+Ontario,Single-property owner,Government-assisted refugee,55,90000,418000,47525
+Ontario,Single-property owner,Other admission category,52,70000,527000,13820
+Ontario,Single-property owner,Other economic admission category,37,115000,476000,37055
+Ontario,Single-property owner,Other family sponsorship admission category,41,85000,463000,8745
+Ontario,Single-property owner,Other refugee admission category,40,70000,542000,12985
+Ontario,Single-property owner,Privately sponsored refugee,55,90000,480000,53735
+Ontario,Single-property owner,Protected refugee in Canada,49,75000,513000,51575
+Ontario,Single-property owner,Provincial and territorial nominee,38,95000,497000,23825
+Ontario,Single-property owner,Quebec investor,51,50000,817000,9230
+Ontario,Single-property owner,Quebec skilled worker,43,120000,464000,17140
+Ontario,Single-property owner,Sponsored child,45,100000,472000,26030
+Ontario,Single-property owner,Sponsored parent or grandparent,54,70000,533000,77530
+Ontario,Single-property owner,Sponsored spouse or partner,47,95000,508000,250590
+Ontario,Single-property owner,Unspecified admission category,0,0,0,0
+Ontario,Total properties owned,Caregiver,51,95000,414000,33465
+Ontario,Total properties owned,Federal entrepreneur,55,85000,733000,29355
+Ontario,Total properties owned,Federal investor,51,65000,860000,11640
+Ontario,Total properties owned,Federal skilled worker,52,120000,579000,580110
+Ontario,Total properties owned,Government-assisted refugee,55,95000,455000,55885
+Ontario,Total properties owned,Other admission category,52,75000,568000,16335
+Ontario,Total properties owned,Other economic admission category,37,120000,509000,43540
+Ontario,Total properties owned,Other family sponsorship admission category,41,85000,485000,10105
+Ontario,Total properties owned,Other refugee admission category,40,75000,565000,14965
+Ontario,Total properties owned,Privately sponsored refugee,55,95000,518000,64305
+Ontario,Total properties owned,Protected refugee in Canada,49,80000,544000,61390
+Ontario,Total properties owned,Provincial and territorial nominee,39,95000,530000,27740
+Ontario,Total properties owned,Quebec investor,51,50000,944000,12165
+Ontario,Total properties owned,Quebec skilled worker,43,125000,495000,20045
+Ontario,Total properties owned,Sponsored child,45,105000,497000,30020
+Ontario,Total properties owned,Sponsored parent or grandparent,54,75000,561000,91165
+Ontario,Total properties owned,Sponsored spouse or partner,48,100000,539000,295870
+Ontario,Total properties owned,Unspecified admission category,0,0,0,0
+Yukon,Multiple-property owner,Caregiver,0,0,0,5
+Yukon,Multiple-property owner,Federal entrepreneur,0,0,0,10
+Yukon,Multiple-property owner,Federal skilled worker,53,140000,505000,45
+Yukon,Multiple-property owner,Government-assisted refugee,0,0,0,5
+Yukon,Multiple-property owner,Other admission category,0,0,0,5
+Yukon,Multiple-property owner,Other economic admission category,0,0,0,5
+Yukon,Multiple-property owner,Other family sponsorship admission category,0,0,0,0
+Yukon,Multiple-property owner,Other refugee admission category,0,0,0,0
+Yukon,Multiple-property owner,Privately sponsored refugee,0,0,0,10
+Yukon,Multiple-property owner,Protected refugee in Canada,0,0,0,0
+Yukon,Multiple-property owner,Provincial and territorial nominee,0,0,0,20
+Yukon,Multiple-property owner,Quebec investor,0,0,0,0
+Yukon,Multiple-property owner,Quebec skilled worker,0,0,0,0
+Yukon,Multiple-property owner,Sponsored child,0,0,0,0
+Yukon,Multiple-property owner,Sponsored parent or grandparent,0,0,0,5
+Yukon,Multiple-property owner,Sponsored spouse or partner,52,150000,479000,50
+Yukon,Multiple-property owner,Unspecified admission category,0,0,0,0
+Yukon,Single-property owner,Caregiver,48,140000,224000,50
+Yukon,Single-property owner,Federal entrepreneur,0,0,0,15
+Yukon,Single-property owner,Federal skilled worker,49,155000,249000,210
+Yukon,Single-property owner,Government-assisted refugee,0,0,0,15
+Yukon,Single-property owner,Other admission category,0,0,0,5
+Yukon,Single-property owner,Other economic admission category,47,105000,225000,30
+Yukon,Single-property owner,Other family sponsorship admission category,0,0,0,10
+Yukon,Single-property owner,Other refugee admission category,0,0,0,0
+Yukon,Single-property owner,Privately sponsored refugee,0,0,0,10
+Yukon,Single-property owner,Protected refugee in Canada,0,0,0,15
+Yukon,Single-property owner,Provincial and territorial nominee,40,125000,207000,310
+Yukon,Single-property owner,Quebec investor,0,0,0,5
+Yukon,Single-property owner,Quebec skilled worker,0,0,0,20
+Yukon,Single-property owner,Sponsored child,0,0,0,15
+Yukon,Single-property owner,Sponsored parent or grandparent,0,0,0,15
+Yukon,Single-property owner,Sponsored spouse or partner,47,135000,239000,270
+Yukon,Single-property owner,Unspecified admission category,0,0,0,0
+Yukon,Total properties owned,Caregiver,49,145000,252000,55
+Yukon,Total properties owned,Federal entrepreneur,47,105000,249000,25
+Yukon,Total properties owned,Federal skilled worker,50,155000,261000,255
+Yukon,Total properties owned,Government-assisted refugee,0,0,0,20
+Yukon,Total properties owned,Other admission category,0,0,0,10
+Yukon,Total properties owned,Other economic admission category,49,115000,269000,35
+Yukon,Total properties owned,Other family sponsorship admission category,0,0,0,10
+Yukon,Total properties owned,Other refugee admission category,0,0,0,0
+Yukon,Total properties owned,Privately sponsored refugee,0,160000,292000,20
+Yukon,Total properties owned,Protected refugee in Canada,0,0,0,15
+Yukon,Total properties owned,Provincial and territorial nominee,40,125000,209000,330
+Yukon,Total properties owned,Quebec investor,0,0,0,5
+Yukon,Total properties owned,Quebec skilled worker,0,0,0,20
+Yukon,Total properties owned,Sponsored child,0,0,0,15
+Yukon,Total properties owned,Sponsored parent or grandparent,54,0,297000,20
+Yukon,Total properties owned,Sponsored spouse or partner,48,135000,259000,320
+Yukon,Total properties owned,Unspecified admission category,0,0,0,0
