@@ -1,111 +1,89 @@
-,GEO,Visible minority,Selected sociodemographic characteristics,Indicators,VALUE
-0,Canada,"Total, by visible minority group",Immigrants,Having no one in the local personal network (close relatives and close friends),3.8
-1,Canada,"Total, by visible minority group",Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),53.0
-2,Canada,"Total, by visible minority group",Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),43.2
-3,Canada,"Total, by visible minority group",Immigrants,Feeling close to 4 relatives or less  ,60.2
-4,Canada,"Total, by visible minority group",Immigrants,Feeling close to 5 relatives or more  ,39.8
-5,Canada,"Total, by visible minority group",Immigrants,Having 4 close friends or less ,61.1
-6,Canada,"Total, by visible minority group",Immigrants,Having 5 close friends or more ,38.9
-7,Canada,"Total, by visible minority group",Immigrants,Having no other friends or acquaintances,6.7
-8,Canada,"Total, by visible minority group",Immigrants,Having 1 to 19 other friends or acquaintances,60.7
-9,Canada,"Total, by visible minority group",Immigrants,Having 20 or more other friends or acquaintances,32.7
-10,Canada,"Total, by visible minority group",Immigrants,Having ethnically diverse networks of friends and acquaintances,37.4
-11,Canada,Total visible minority population,Immigrants,Having no one in the local personal network (close relatives and close friends),3.7
-12,Canada,Total visible minority population,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),52.2
-13,Canada,Total visible minority population,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),44.1
-14,Canada,Total visible minority population,Immigrants,Feeling close to 4 relatives or less  ,59.9
-15,Canada,Total visible minority population,Immigrants,Feeling close to 5 relatives or more  ,40.1
-16,Canada,Total visible minority population,Immigrants,Having 4 close friends or less ,61.3
-17,Canada,Total visible minority population,Immigrants,Having 5 close friends or more ,38.7
-18,Canada,Total visible minority population,Immigrants,Having no other friends or acquaintances,6.5
-19,Canada,Total visible minority population,Immigrants,Having 1 to 19 other friends or acquaintances,59.6
-20,Canada,Total visible minority population,Immigrants,Having 20 or more other friends or acquaintances,33.9
-21,Canada,Total visible minority population,Immigrants,Having ethnically diverse networks of friends and acquaintances,45.1
-22,Canada,South Asian,Immigrants,Having no one in the local personal network (close relatives and close friends),3.7
-23,Canada,South Asian,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),53.2
-24,Canada,South Asian,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),43.1
-25,Canada,South Asian,Immigrants,Feeling close to 4 relatives or less  ,55.8
-26,Canada,South Asian,Immigrants,Feeling close to 5 relatives or more  ,44.2
-27,Canada,South Asian,Immigrants,Having 4 close friends or less ,62.3
-28,Canada,South Asian,Immigrants,Having 5 close friends or more ,37.7
-29,Canada,South Asian,Immigrants,Having no other friends or acquaintances,7.2
-30,Canada,South Asian,Immigrants,Having 1 to 19 other friends or acquaintances,64.7
-31,Canada,South Asian,Immigrants,Having 20 or more other friends or acquaintances,28.2
-32,Canada,South Asian,Immigrants,Having ethnically diverse networks of friends and acquaintances,44.3
-33,Canada,Chinese,Immigrants,Having no one in the local personal network (close relatives and close friends),3.3
-34,Canada,Chinese,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),51.2
-35,Canada,Chinese,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),45.5
-36,Canada,Chinese,Immigrants,Feeling close to 4 relatives or less  ,72.1
-37,Canada,Chinese,Immigrants,Feeling close to 5 relatives or more  ,27.9
-38,Canada,Chinese,Immigrants,Having 4 close friends or less ,60.4
-39,Canada,Chinese,Immigrants,Having 5 close friends or more ,39.6
-40,Canada,Chinese,Immigrants,Having no other friends or acquaintances,3.8
-41,Canada,Chinese,Immigrants,Having 1 to 19 other friends or acquaintances,58.7
-42,Canada,Chinese,Immigrants,Having 20 or more other friends or acquaintances,37.5
-43,Canada,Chinese,Immigrants,Having ethnically diverse networks of friends and acquaintances,41.6
-44,Canada,Black,Immigrants,Having no one in the local personal network (close relatives and close friends),4.3
-45,Canada,Black,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),59.4
-46,Canada,Black,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),36.3
-47,Canada,Black,Immigrants,Feeling close to 4 relatives or less  ,55.1
-48,Canada,Black,Immigrants,Feeling close to 5 relatives or more  ,44.9
-49,Canada,Black,Immigrants,Having 4 close friends or less ,63.3
-50,Canada,Black,Immigrants,Having 5 close friends or more ,36.7
-51,Canada,Black,Immigrants,Having no other friends or acquaintances,9.6
-52,Canada,Black,Immigrants,Having 1 to 19 other friends or acquaintances,57.4
-53,Canada,Black,Immigrants,Having 20 or more other friends or acquaintances,32.9
-54,Canada,Black,Immigrants,Having ethnically diverse networks of friends and acquaintances,51.8
-55,Canada,Filipino,Immigrants,Having no one in the local personal network (close relatives and close friends),2.9
-56,Canada,Filipino,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),31.7
-57,Canada,Filipino,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),65.4
-58,Canada,Filipino,Immigrants,Feeling close to 4 relatives or less  ,52.0
-59,Canada,Filipino,Immigrants,Feeling close to 5 relatives or more  ,48.0
-60,Canada,Filipino,Immigrants,Having 4 close friends or less ,45.7
-61,Canada,Filipino,Immigrants,Having 5 close friends or more ,54.3
-62,Canada,Filipino,Immigrants,Having no other friends or acquaintances,2.8
-63,Canada,Filipino,Immigrants,Having 1 to 19 other friends or acquaintances,50.3
-64,Canada,Filipino,Immigrants,Having 20 or more other friends or acquaintances,46.9
-65,Canada,Filipino,Immigrants,Having ethnically diverse networks of friends and acquaintances,35.8
-66,Canada,Arab,Immigrants,Having no one in the local personal network (close relatives and close friends),3.9
-67,Canada,Arab,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),55.4
-68,Canada,Arab,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),40.7
-69,Canada,Arab,Immigrants,Feeling close to 4 relatives or less  ,55.9
-70,Canada,Arab,Immigrants,Feeling close to 5 relatives or more  ,44.1
-71,Canada,Arab,Immigrants,Having 4 close friends or less ,70.3
-72,Canada,Arab,Immigrants,Having 5 close friends or more ,29.7
-73,Canada,Arab,Immigrants,Having no other friends or acquaintances,11.1
-74,Canada,Arab,Immigrants,Having 1 to 19 other friends or acquaintances,60.9
-75,Canada,Arab,Immigrants,Having 20 or more other friends or acquaintances,28.0
-76,Canada,Arab,Immigrants,Having ethnically diverse networks of friends and acquaintances,49.8
-77,Canada,Latin American,Immigrants,Having no one in the local personal network (close relatives and close friends),3.6
-78,Canada,Latin American,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),60.2
-79,Canada,Latin American,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),36.3
-80,Canada,Latin American,Immigrants,Feeling close to 4 relatives or less  ,58.0
-81,Canada,Latin American,Immigrants,Feeling close to 5 relatives or more  ,42.0
-82,Canada,Latin American,Immigrants,Having 4 close friends or less ,59.3
-83,Canada,Latin American,Immigrants,Having 5 close friends or more ,40.7
-84,Canada,Latin American,Immigrants,Having no other friends or acquaintances,2.3
-85,Canada,Latin American,Immigrants,Having 1 to 19 other friends or acquaintances,61.6
-86,Canada,Latin American,Immigrants,Having 20 or more other friends or acquaintances,36.1
-87,Canada,Latin American,Immigrants,Having ethnically diverse networks of friends and acquaintances,47.1
-88,Canada,Southeast Asian,Immigrants,Having no one in the local personal network (close relatives and close friends),3.4
-89,Canada,Southeast Asian,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),59.9
-90,Canada,Southeast Asian,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),36.7
-91,Canada,Southeast Asian,Immigrants,Feeling close to 4 relatives or less  ,69.3
-92,Canada,Southeast Asian,Immigrants,Feeling close to 5 relatives or more  ,30.7
-93,Canada,Southeast Asian,Immigrants,Having 4 close friends or less ,77.9
-94,Canada,Southeast Asian,Immigrants,Having 5 close friends or more ,22.1
-95,Canada,Southeast Asian,Immigrants,Having no other friends or acquaintances,11.7
-96,Canada,Southeast Asian,Immigrants,Having 1 to 19 other friends or acquaintances,67.0
-97,Canada,Southeast Asian,Immigrants,Having 20 or more other friends or acquaintances,21.3
-98,Canada,Southeast Asian,Immigrants,Having ethnically diverse networks of friends and acquaintances,56.3
-99,Canada,Not a visible minority,Immigrants,Having no one in the local personal network (close relatives and close friends),3.8
-100,Canada,Not a visible minority,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),54.8
-101,Canada,Not a visible minority,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),41.4
-102,Canada,Not a visible minority,Immigrants,Feeling close to 4 relatives or less  ,60.8
-103,Canada,Not a visible minority,Immigrants,Feeling close to 5 relatives or more  ,39.2
-104,Canada,Not a visible minority,Immigrants,Having 4 close friends or less ,60.9
-105,Canada,Not a visible minority,Immigrants,Having 5 close friends or more ,39.1
-106,Canada,Not a visible minority,Immigrants,Having no other friends or acquaintances,6.9
-107,Canada,Not a visible minority,Immigrants,Having 1 to 19 other friends or acquaintances,63.0
-108,Canada,Not a visible minority,Immigrants,Having 20 or more other friends or acquaintances,30.1
-109,Canada,Not a visible minority,Immigrants,Having ethnically diverse networks of friends and acquaintances,21.8
+GEO,Visible minority,Selected sociodemographic characteristics,Indicators,VALUE,Category
+Canada,South Asian,Immigrants,Having no one in the local personal network (close relatives and close friends),3.7,
+Canada,South Asian,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),53.2,
+Canada,South Asian,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),43.1,
+Canada,South Asian,Immigrants,Feeling close to 4 relatives or less  ,55.8,
+Canada,South Asian,Immigrants,Feeling close to 5 relatives or more  ,44.2,
+Canada,South Asian,Immigrants,Having 4 close friends or less ,62.3,Friends and Acquaintances
+Canada,South Asian,Immigrants,Having 5 close friends or more ,37.7,Friends and Acquaintances
+Canada,South Asian,Immigrants,Having no other friends or acquaintances,7.2,Friends and Acquaintances
+Canada,South Asian,Immigrants,Having 1 to 19 other friends or acquaintances,64.7,Friends and Acquaintances
+Canada,South Asian,Immigrants,Having 20 or more other friends or acquaintances,28.2,Friends and Acquaintances
+Canada,South Asian,Immigrants,Having ethnically diverse networks of friends and acquaintances,44.3,Friends and Acquaintances
+Canada,Chinese,Immigrants,Having no one in the local personal network (close relatives and close friends),3.3,
+Canada,Chinese,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),51.2,
+Canada,Chinese,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),45.5,
+Canada,Chinese,Immigrants,Feeling close to 4 relatives or less  ,72.1,
+Canada,Chinese,Immigrants,Feeling close to 5 relatives or more  ,27.9,
+Canada,Chinese,Immigrants,Having 4 close friends or less ,60.4,Friends and Acquaintances
+Canada,Chinese,Immigrants,Having 5 close friends or more ,39.6,Friends and Acquaintances
+Canada,Chinese,Immigrants,Having no other friends or acquaintances,3.8,Friends and Acquaintances
+Canada,Chinese,Immigrants,Having 1 to 19 other friends or acquaintances,58.7,Friends and Acquaintances
+Canada,Chinese,Immigrants,Having 20 or more other friends or acquaintances,37.5,Friends and Acquaintances
+Canada,Chinese,Immigrants,Having ethnically diverse networks of friends and acquaintances,41.6,Friends and Acquaintances
+Canada,Black,Immigrants,Having no one in the local personal network (close relatives and close friends),4.3,
+Canada,Black,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),59.4,
+Canada,Black,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),36.3,
+Canada,Black,Immigrants,Feeling close to 4 relatives or less  ,55.1,
+Canada,Black,Immigrants,Feeling close to 5 relatives or more  ,44.9,
+Canada,Black,Immigrants,Having 4 close friends or less ,63.3,Friends and Acquaintances
+Canada,Black,Immigrants,Having 5 close friends or more ,36.7,Friends and Acquaintances
+Canada,Black,Immigrants,Having no other friends or acquaintances,9.6,Friends and Acquaintances
+Canada,Black,Immigrants,Having 1 to 19 other friends or acquaintances,57.4,Friends and Acquaintances
+Canada,Black,Immigrants,Having 20 or more other friends or acquaintances,32.9,Friends and Acquaintances
+Canada,Black,Immigrants,Having ethnically diverse networks of friends and acquaintances,51.8,Friends and Acquaintances
+Canada,Filipino,Immigrants,Having no one in the local personal network (close relatives and close friends),2.9,
+Canada,Filipino,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),31.7,
+Canada,Filipino,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),65.4,
+Canada,Filipino,Immigrants,Feeling close to 4 relatives or less  ,52,
+Canada,Filipino,Immigrants,Feeling close to 5 relatives or more  ,48,
+Canada,Filipino,Immigrants,Having 4 close friends or less ,45.7,Friends and Acquaintances
+Canada,Filipino,Immigrants,Having 5 close friends or more ,54.3,Friends and Acquaintances
+Canada,Filipino,Immigrants,Having no other friends or acquaintances,2.8,Friends and Acquaintances
+Canada,Filipino,Immigrants,Having 1 to 19 other friends or acquaintances,50.3,Friends and Acquaintances
+Canada,Filipino,Immigrants,Having 20 or more other friends or acquaintances,46.9,Friends and Acquaintances
+Canada,Filipino,Immigrants,Having ethnically diverse networks of friends and acquaintances,35.8,Friends and Acquaintances
+Canada,Arab,Immigrants,Having no one in the local personal network (close relatives and close friends),3.9,
+Canada,Arab,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),55.4,
+Canada,Arab,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),40.7,
+Canada,Arab,Immigrants,Feeling close to 4 relatives or less  ,55.9,
+Canada,Arab,Immigrants,Feeling close to 5 relatives or more  ,44.1,
+Canada,Arab,Immigrants,Having 4 close friends or less ,70.3,Friends and Acquaintances
+Canada,Arab,Immigrants,Having 5 close friends or more ,29.7,Friends and Acquaintances
+Canada,Arab,Immigrants,Having no other friends or acquaintances,11.1,Friends and Acquaintances
+Canada,Arab,Immigrants,Having 1 to 19 other friends or acquaintances,60.9,Friends and Acquaintances
+Canada,Arab,Immigrants,Having 20 or more other friends or acquaintances,28,Friends and Acquaintances
+Canada,Arab,Immigrants,Having ethnically diverse networks of friends and acquaintances,49.8,Friends and Acquaintances
+Canada,Latin American,Immigrants,Having no one in the local personal network (close relatives and close friends),3.6,
+Canada,Latin American,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),60.2,
+Canada,Latin American,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),36.3,
+Canada,Latin American,Immigrants,Feeling close to 4 relatives or less  ,58,
+Canada,Latin American,Immigrants,Feeling close to 5 relatives or more  ,42,
+Canada,Latin American,Immigrants,Having 4 close friends or less ,59.3,Friends and Acquaintances
+Canada,Latin American,Immigrants,Having 5 close friends or more ,40.7,Friends and Acquaintances
+Canada,Latin American,Immigrants,Having no other friends or acquaintances,2.3,Friends and Acquaintances
+Canada,Latin American,Immigrants,Having 1 to 19 other friends or acquaintances,61.6,Friends and Acquaintances
+Canada,Latin American,Immigrants,Having 20 or more other friends or acquaintances,36.1,Friends and Acquaintances
+Canada,Latin American,Immigrants,Having ethnically diverse networks of friends and acquaintances,47.1,Friends and Acquaintances
+Canada,Southeast Asian,Immigrants,Having no one in the local personal network (close relatives and close friends),3.4,
+Canada,Southeast Asian,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),59.9,
+Canada,Southeast Asian,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),36.7,
+Canada,Southeast Asian,Immigrants,Feeling close to 4 relatives or less  ,69.3,
+Canada,Southeast Asian,Immigrants,Feeling close to 5 relatives or more  ,30.7,
+Canada,Southeast Asian,Immigrants,Having 4 close friends or less ,77.9,Friends and Acquaintances
+Canada,Southeast Asian,Immigrants,Having 5 close friends or more ,22.1,Friends and Acquaintances
+Canada,Southeast Asian,Immigrants,Having no other friends or acquaintances,11.7,Friends and Acquaintances
+Canada,Southeast Asian,Immigrants,Having 1 to 19 other friends or acquaintances,67,Friends and Acquaintances
+Canada,Southeast Asian,Immigrants,Having 20 or more other friends or acquaintances,21.3,Friends and Acquaintances
+Canada,Southeast Asian,Immigrants,Having ethnically diverse networks of friends and acquaintances,56.3,Friends and Acquaintances
+Canada,Not a visible minority,Immigrants,Having no one in the local personal network (close relatives and close friends),3.8,
+Canada,Not a visible minority,Immigrants,Having 1 to 14 people in the local personal network (close relatives and close friends),54.8,
+Canada,Not a visible minority,Immigrants,Having 15 or more people in the local personal network (closes relatives and closes friends),41.4,
+Canada,Not a visible minority,Immigrants,Feeling close to 4 relatives or less  ,60.8,
+Canada,Not a visible minority,Immigrants,Feeling close to 5 relatives or more  ,39.2,
+Canada,Not a visible minority,Immigrants,Having 4 close friends or less ,60.9,Friends and Acquaintances
+Canada,Not a visible minority,Immigrants,Having 5 close friends or more ,39.1,Friends and Acquaintances
+Canada,Not a visible minority,Immigrants,Having no other friends or acquaintances,6.9,Friends and Acquaintances
+Canada,Not a visible minority,Immigrants,Having 1 to 19 other friends or acquaintances,63,Friends and Acquaintances
+Canada,Not a visible minority,Immigrants,Having 20 or more other friends or acquaintances,30.1,Friends and Acquaintances
+Canada,Not a visible minority,Immigrants,Having ethnically diverse networks of friends and acquaintances,21.8,Friends and Acquaintances

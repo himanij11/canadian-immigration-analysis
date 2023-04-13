@@ -949,8 +949,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1800' minheight='1800' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='98' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='97' param='vert' type-v2='layout-flow' w='98770' x='615' y='1000'>
+            <zone h='100000' id='104' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='103' param='vert' type-v2='layout-flow' w='98770' x='615' y='1000'>
                 <zone h='6623' id='5' type-v2='text' w='98770' x='615' y='1000'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#000000' fontname='Tableau Bold' fontsize='14'>Analysis of Residential Properties Owned by Immigrants</run>
@@ -1322,7 +1322,7 @@
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='58' />
       <simple-id uuid='{55785142-4BA7-482A-8E04-9B332EEF4922}' />
     </window>
   </windows>
