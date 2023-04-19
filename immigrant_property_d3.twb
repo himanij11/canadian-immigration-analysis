@@ -872,8 +872,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1450' minheight='1450' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='126' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='125' param='vert' type-v2='layout-flow' w='98770' x='615' y='1000'>
+            <zone h='100000' id='132' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='131' param='vert' type-v2='layout-flow' w='98770' x='615' y='1000'>
                 <zone h='6621' id='5' type-v2='text' w='98770' x='615' y='1000'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#000000' fontname='Tableau Bold' fontsize='14'>Analysis of Residential Properties Owned by Immigrants</run>
