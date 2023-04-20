@@ -1,0 +1,2759 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20224.22.1117.1841                               -->
+<workbook original-version='18.1' source-build='2022.4.0 (20224.22.1117.1841)' source-platform='win' version='18.1' xml:base='https://public.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AccessibleZoneTabOrder.true...AccessibleZoneTabOrder />
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelExtractV2.true...ObjectModelExtractV2 />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <_.fcp.SingleValuePerNestSorting.true...SingleValuePerNestSorting />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+    <WorksheetBackgroundTransparency />
+    <ZoneBackgroundTransparency />
+    <ZoneFriendlyName />
+  </document-format-change-manifest>
+  <repository-location id='CanadianImmigrantEducationandEmploymentTrends' path='/workbooks' revision='1.0' />
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='immigrant_education_statistics_d2' inline='true' name='federated.035p8581qp15hw10s6vro06vignf' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='immigrant_education_statistics_d2' name='textscan.1c9qb911y6nf9m11q68ql1fgn8en'>
+            <connection class='textscan' directory='R:/Visual Analytics/Project/canadian-immigration-analysis/cleaned_datasets' filename='immigrant_education_statistics_d2.csv' password='' server='' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1c9qb911y6nf9m11q68ql1fgn8en' name='immigrant_education_employment_statistics_d2.csv' table='[immigrant_education_employment_statistics_d2#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='string' name='Canadian Province/CMA' ordinal='0' />
+            <column datatype='string' name='Visible minority' ordinal='1' />
+            <column datatype='string' name='Highest certificate, diploma or degree' ordinal='2' />
+            <column datatype='string' name='Gender' ordinal='3' />
+            <column datatype='real' name='Total - Labour force status' ordinal='4' />
+            <column datatype='real' name='In the labour force' ordinal='5' />
+            <column datatype='real' name='Employed' ordinal='6' />
+            <column datatype='real' name='Unemployed' ordinal='7' />
+            <column datatype='real' name='Not in the labour force' ordinal='8' />
+            <column datatype='real' name='Participation rate' ordinal='9' />
+            <column datatype='real' name='Employment rate' ordinal='10' />
+            <column datatype='real' name='Unemployment rate' ordinal='11' />
+            <column datatype='string' name='Province' ordinal='12' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1c9qb911y6nf9m11q68ql1fgn8en' name='immigrant_education_employment_statistics_d2.csv' table='[immigrant_education_employment_statistics_d2#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='string' name='Canadian Province/CMA' ordinal='0' />
+            <column datatype='string' name='Visible minority' ordinal='1' />
+            <column datatype='string' name='Highest certificate, diploma or degree' ordinal='2' />
+            <column datatype='string' name='Gender' ordinal='3' />
+            <column datatype='real' name='Total - Labour force status' ordinal='4' />
+            <column datatype='real' name='In the labour force' ordinal='5' />
+            <column datatype='real' name='Employed' ordinal='6' />
+            <column datatype='real' name='Unemployed' ordinal='7' />
+            <column datatype='real' name='Not in the labour force' ordinal='8' />
+            <column datatype='real' name='Participation rate' ordinal='9' />
+            <column datatype='real' name='Employment rate' ordinal='10' />
+            <column datatype='real' name='Unemployment rate' ordinal='11' />
+            <column datatype='string' name='Province' ordinal='12' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_CA&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Canadian Province/CMA</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Canadian Province/CMA]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>Canadian Province/CMA</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Visible minority</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Visible minority]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>Visible minority</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Highest certificate, diploma or degree</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Highest certificate, diploma or degree]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>Highest certificate, diploma or degree</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Gender]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>Gender</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Total - Labour force status</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Total - Labour force status]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>Total - Labour force status</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>In the labour force</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[In the labour force]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>In the labour force</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Employed</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Employed]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>Employed</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Unemployed</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Unemployed]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>Unemployed</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Not in the labour force</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Not in the labour force]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>Not in the labour force</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Participation rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Participation rate]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>Participation rate</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Employment rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Employment rate]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>Employment rate</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Unemployment rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Unemployment rate]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>Unemployment rate</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Province</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Province]</local-name>
+            <parent-name>[immigrant_education_employment_statistics_d2.csv]</parent-name>
+            <remote-alias>Province</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[:Measure Names]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;[federated.035p8581qp15hw10s6vro06vignf].[avg:Employment rate:qk]&quot;' value='Employment Rate' />
+          <alias key='&quot;[federated.035p8581qp15hw10s6vro06vignf].[avg:Unemployment rate:qk]&quot;' value='Unemployment rate' />
+        </aliases>
+      </column>
+      <column caption='isProvince' datatype='string' name='[Calculation_1528127662141345792]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF [Canadian Province/CMA] = &apos;Newfoundland and Labrador&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Prince Edward Island&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Nova Scotia&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;New Brunswick&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Quebec&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Ontario&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Manitoba&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Saskatchewan&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Alberta&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;British Columbia&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Yukon&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Northwest Territories&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Nunavut&apos;&#13;&#10;THEN &apos;Province&apos;&#13;&#10;ELSE &apos;CMA&apos;&#13;&#10;END' />
+      </column>
+      <column caption='CMA' datatype='string' name='[Canadian Province/CMA]' role='dimension' semantic-role='[State].[Name]' type='nominal'>
+        <aliases>
+          <alias key='&quot;Vancouver (CMA), B.C.&quot;' value='Vancouver' />
+        </aliases>
+      </column>
+      <column datatype='real' name='[Employed]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Employment rate]' role='measure' type='quantitative' />
+      <column datatype='string' name='[Gender]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;Men+&quot;' value='Men' />
+          <alias key='&quot;Women+&quot;' value='Women' />
+        </aliases>
+      </column>
+      <column datatype='string' name='[Highest certificate, diploma or degree]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;High (secondary) school diploma or equivalency certificate&quot;' value='High school diploma or equivalency certificate' />
+          <alias key='&quot;University certificate or diploma below bachelor level&quot;' value='Diploma or University certificate below bachelor level' />
+        </aliases>
+      </column>
+      <column datatype='real' name='[In the labour force]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Not in the labour force]' role='measure' type='quantitative' />
+      <column caption='Provinces of Canada' datatype='string' name='[Province]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+      <column datatype='real' name='[Total - Labour force status]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Unemployed]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Unemployment rate]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='immigrant_education_employment_statistics_d2.csv' datatype='table' name='[__tableau_internal_object_id__].[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]' role='measure' type='quantitative' />
+      <column-instance column='[Employment rate]' derivation='Avg' name='[avg:Employment rate:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Unemployment rate]' derivation='Avg' name='[avg:Unemployment rate:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Gender]' derivation='None' name='[none:Gender:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Highest certificate, diploma or degree]' derivation='None' name='[none:Highest certificate, diploma or degree:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Employed]' derivation='Sum' name='[sum:Employed:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Employment rate]' derivation='Sum' name='[sum:Employment rate:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[In the labour force]' derivation='Sum' name='[sum:In the labour force:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Not in the labour force]' derivation='Sum' name='[sum:Not in the labour force:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Total - Labour force status]' derivation='Sum' name='[sum:Total - Labour force status:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Unemployed]' derivation='Sum' name='[sum:Unemployed:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Unemployment rate]' derivation='Sum' name='[sum:Unemployment rate:qk]' pivot='key' type='quantitative' />
+      <group caption='Action (CMA,Highest certificate, diploma or degree)' hidden='true' name='[Action (CMA,Highest certificate, diploma or degree)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[Canadian Province/CMA]' />
+          <groupfilter function='level-members' level='[Highest certificate, diploma or degree]' />
+        </groupfilter>
+      </group>
+      <group caption='Action (Highest certificate, diploma or degree,Provinces of Canada)' hidden='true' name='[Action (Highest certificate, diploma or degree,Provinces of Canada)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[Highest certificate, diploma or degree]' />
+          <groupfilter function='level-members' level='[Province]' />
+        </groupfilter>
+      </group>
+      <group caption='Action (Province)' hidden='true' name='[Action (Province)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[Province]' />
+        </groupfilter>
+      </group>
+      <group caption='Action (Provinces of Canada)' hidden='true' name='[Action (Provinces of Canada)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[Province]' />
+        </groupfilter>
+      </group>
+      <drill-paths>
+        <drill-path name='Country, Canadian Province/CMA'>
+          <field>[Canadian Province/CMA]</field>
+        </drill-path>
+      </drill-paths>
+      <extract _.fcp.ObjectModelExtractV2.true...object-id='' count='-1' enabled='true' units='records'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_US' class='hyper' dbname='R:/Visual Analytics/Project/canadian-immigration-analysis/tableau_dataset_extract/immigrant_education_statistics_d2.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='04/20/2023 12:40:21 AM' username='tableau_internal_user'>
+          <_.fcp.ObjectModelEncapsulateLegacy.false...relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <_.fcp.ObjectModelEncapsulateLegacy.true...relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <refresh>
+            <refresh-event add-from-file-path='immigrant_education_statistics_d2' increment-value='%null%' refresh-type='create' rows-inserted='8064' timestamp-start='2023-04-20 00:40:20.183' />
+          </refresh>
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Canadian Province/CMA</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Canadian Province/CMA]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Canadian Province/CMA</remote-alias>
+              <ordinal>0</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>56</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Visible minority</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Visible minority]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Visible minority</remote-alias>
+              <ordinal>1</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>12</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Highest certificate, diploma or degree</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Highest certificate, diploma or degree]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Highest certificate, diploma or degree</remote-alias>
+              <ordinal>2</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Gender</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Gender]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Gender</remote-alias>
+              <ordinal>3</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Total - Labour force status</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Total - Labour force status]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Total - Labour force status</remote-alias>
+              <ordinal>4</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>335</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>In the labour force</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[In the labour force]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>In the labour force</remote-alias>
+              <ordinal>5</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>276</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Employed</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Employed]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Employed</remote-alias>
+              <ordinal>6</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>254</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Unemployed</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Unemployed]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Unemployed</remote-alias>
+              <ordinal>7</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>81</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Not in the labour force</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Not in the labour force]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Not in the labour force</remote-alias>
+              <ordinal>8</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>178</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Participation rate</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Participation rate]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Participation rate</remote-alias>
+              <ordinal>9</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>468</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Employment rate</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Employment rate]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Employment rate</remote-alias>
+              <ordinal>10</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>540</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Unemployment rate</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Unemployment rate]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Unemployment rate</remote-alias>
+              <ordinal>11</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>346</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Province</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Province]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Province</remote-alias>
+              <ordinal>12</ordinal>
+              <family>immigrant_education_employment_statistics_d2.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>14</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Gender:nk]' palette='green_orange_cyan_yellow_10_0' type='palette'>
+            <map to='#9b93c9'>
+              <bucket>&quot;Women+&quot;</bucket>
+            </map>
+            <map to='#f7c480'>
+              <bucket>&quot;Men+&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Highest certificate, diploma or degree:nk]' type='palette'>
+            <map to='#76b7b2'>
+              <bucket>&quot;High (secondary) school diploma or equivalency certificate&quot;</bucket>
+            </map>
+            <map to='#9c755f'>
+              <bucket>&quot;No certificate, diploma or degree&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Apprenticeship or trades certificate or diploma&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;College, CEGEP or other non-university certificate or diploma&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;University certificate or diploma below bachelor level&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Bachelor&apos;s degree or higher&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[:Measure Names]' palette='purple_10_0' type='palette'>
+            <map to='#00aa00'>
+              <bucket>&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:Employed:qk]&quot;</bucket>
+            </map>
+            <map to='#5fa2ce'>
+              <bucket>&quot;[federated.035p8581qp15hw10s6vro06vignf].[avg:Employment rate:qk]&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:Not in the labour force:qk]&quot;</bucket>
+            </map>
+            <map to='#9a6a96'>
+              <bucket>&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:In the labour force:qk]&quot;</bucket>
+            </map>
+            <map to='#9c755f'>
+              <bucket>&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:Unemployment rate:qk]&quot;</bucket>
+            </map>
+            <map to='#c8d0d9'>
+              <bucket>&quot;[federated.035p8581qp15hw10s6vro06vignf].[avg:Unemployment rate:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:Unemployed:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:Total - Labour force status:qk]&quot;</bucket>
+            </map>
+            <map to='#ff9da7'>
+              <bucket>&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:Employment rate:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Canada&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='immigrant_education_employment_statistics_d2.csv' id='immigrant_education_employment_statistics_d2.csv_E615C2A7FE4D421294671EEAE6CA1A3F'>
+            <properties context=''>
+              <relation connection='textscan.1c9qb911y6nf9m11q68ql1fgn8en' name='immigrant_education_employment_statistics_d2.csv' table='[immigrant_education_employment_statistics_d2#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+                  <column datatype='string' name='Canadian Province/CMA' ordinal='0' />
+                  <column datatype='string' name='Visible minority' ordinal='1' />
+                  <column datatype='string' name='Highest certificate, diploma or degree' ordinal='2' />
+                  <column datatype='string' name='Gender' ordinal='3' />
+                  <column datatype='real' name='Total - Labour force status' ordinal='4' />
+                  <column datatype='real' name='In the labour force' ordinal='5' />
+                  <column datatype='real' name='Employed' ordinal='6' />
+                  <column datatype='real' name='Unemployed' ordinal='7' />
+                  <column datatype='real' name='Not in the labour force' ordinal='8' />
+                  <column datatype='real' name='Participation rate' ordinal='9' />
+                  <column datatype='real' name='Employment rate' ordinal='10' />
+                  <column datatype='real' name='Unemployment rate' ordinal='11' />
+                  <column datatype='string' name='Province' ordinal='12' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <shared-views>
+    <shared-view name='federated.035p8581qp15hw10s6vro06vignf'>
+      <datasources>
+        <datasource caption='immigrant_education_statistics_d2' name='federated.035p8581qp15hw10s6vro06vignf' />
+      </datasources>
+      <datasource-dependencies datasource='federated.035p8581qp15hw10s6vro06vignf'>
+        <column datatype='string' name='[Visible minority]' role='dimension' type='nominal' />
+        <column-instance column='[Visible minority]' derivation='None' name='[none:Visible minority:nk]' pivot='key' type='nominal' />
+      </datasource-dependencies>
+      <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Visible minority:nk]'>
+        <groupfilter function='level-members' level='[none:Visible minority:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+      </filter>
+    </shared-view>
+  </shared-views>
+  <actions>
+    <action caption='Highlight 1 (generated) 1' name='[Action3_76B2001F9B9240D3B5C8CDB8B21942BA]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='Immigrant Education and Employability (2)' type='sheet' />
+      <command command='tsc:brush'>
+        <param name='field-captions' value='Gender' />
+        <param name='target' value='Immigrant Education and Employability (2)' />
+      </command>
+    </action>
+    <action caption='Filter 1 (generated)' name='[Action5_6FCD64F42ADD45808C5426EA0F0C80A6]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='Immigrant Education and Employability (2)' type='sheet' worksheet='Province-wise employability comparison' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='Immigrant Education and Employability (2)' />
+      </command>
+    </action>
+  </actions>
+  <worksheets>
+    <worksheet name='Average Employment rates of CMA'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontname='Tableau Regular' fontsize='12'>&lt;Sheet Name&gt;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='immigrant_education_statistics_d2' name='federated.035p8581qp15hw10s6vro06vignf' />
+          </datasources>
+          <datasource-dependencies datasource='federated.035p8581qp15hw10s6vro06vignf'>
+            <column caption='isProvince' datatype='string' name='[Calculation_1528127662141345792]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='IF [Canadian Province/CMA] = &apos;Newfoundland and Labrador&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Prince Edward Island&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Nova Scotia&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;New Brunswick&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Quebec&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Ontario&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Manitoba&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Saskatchewan&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Alberta&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;British Columbia&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Yukon&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Northwest Territories&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Nunavut&apos;&#13;&#10;THEN &apos;Province&apos;&#13;&#10;ELSE &apos;CMA&apos;&#13;&#10;END' />
+            </column>
+            <column caption='CMA' datatype='string' name='[Canadian Province/CMA]' role='dimension' semantic-role='[State].[Name]' type='nominal'>
+              <aliases>
+                <alias key='&quot;Vancouver (CMA), B.C.&quot;' value='Vancouver' />
+              </aliases>
+            </column>
+            <column datatype='real' name='[Employment rate]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Gender]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;Men+&quot;' value='Men' />
+                <alias key='&quot;Women+&quot;' value='Women' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Highest certificate, diploma or degree]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;High (secondary) school diploma or equivalency certificate&quot;' value='High school diploma or equivalency certificate' />
+                <alias key='&quot;University certificate or diploma below bachelor level&quot;' value='Diploma or University certificate below bachelor level' />
+              </aliases>
+            </column>
+            <column caption='Provinces of Canada' datatype='string' name='[Province]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+            <column datatype='real' name='[Unemployment rate]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Visible minority]' role='dimension' type='nominal' />
+            <column-instance column='[Employment rate]' derivation='Avg' name='[avg:Employment rate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Unemployment rate]' derivation='Avg' name='[avg:Unemployment rate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1528127662141345792]' derivation='None' name='[none:Calculation_1528127662141345792:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Canadian Province/CMA]' derivation='None' name='[none:Canadian Province/CMA:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Gender]' derivation='None' name='[none:Gender:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Highest certificate, diploma or degree]' derivation='None' name='[none:Highest certificate, diploma or degree:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Visible minority]' derivation='None' name='[none:Visible minority:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[Action (CMA,Highest certificate, diploma or degree)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action5_6FCD64F42ADD45808C5426EA0F0C80A6]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[Canadian Province/CMA]' />
+              <groupfilter function='level-members' level='[Highest certificate, diploma or degree]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[Action (Highest certificate, diploma or degree,Provinces of Canada)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action5_6FCD64F42ADD45808C5426EA0F0C80A6]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[Highest certificate, diploma or degree]' />
+              <groupfilter function='level-members' level='[Province]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[Action (Provinces of Canada)]' filter-group='5'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[Province]' member='&quot;Alberta&quot;' />
+              <groupfilter function='member' level='[Province]' member='&quot;British Columbia&quot;' />
+              <groupfilter function='member' level='[Province]' member='&quot;Ontario&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Calculation_1528127662141345792:nk]'>
+            <groupfilter function='member' level='[none:Calculation_1528127662141345792:nk]' member='&quot;CMA&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]' filter-group='6'>
+            <groupfilter function='level-members' level='[none:Gender:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' filter-group='3'>
+            <groupfilter function='level-members' level='[none:Highest certificate, diploma or degree:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <_.fcp.SingleValuePerNestSorting.true...single-value-per-nest-shelf-sorts>
+            <single-value-per-nest-shelf-sort dimension-to-sort='[federated.035p8581qp15hw10s6vro06vignf].[none:Canadian Province/CMA:nk]' direction='ASC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.035p8581qp15hw10s6vro06vignf].[none:Canadian Province/CMA:nk]' shelf='rows' />
+          </_.fcp.SingleValuePerNestSorting.true...single-value-per-nest-shelf-sorts>
+          <slices>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Calculation_1528127662141345792:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Visible minority:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[Action (Provinces of Canada)]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[Action (CMA,Highest certificate, diploma or degree)]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[Action (Highest certificate, diploma or degree,Provinces of Canada)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.035p8581qp15hw10s6vro06vignf].[avg:Unemployment rate:qk]' field-type='quantitative' fold='true' scope='cols' synchronized='true' type='space' />
+            <format attr='display' class='0' field='[federated.035p8581qp15hw10s6vro06vignf].[avg:Unemployment rate:qk]' scope='cols' value='false' />
+            <format attr='display' class='0' field='[federated.035p8581qp15hw10s6vro06vignf].[avg:Employment rate:qk]' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='text-format' field='[federated.035p8581qp15hw10s6vro06vignf].[avg:Employment rate:qk]' value='n#,##0.00&quot;%&quot;;-#,##0.00&quot;%&quot;' />
+            <format attr='text-format' field='[federated.035p8581qp15hw10s6vro06vignf].[avg:Unemployment rate:qk]' value='n#,##0.00&quot;%&quot;;-#,##0.00&quot;%&quot;' />
+            <format attr='font-weight' field='[federated.035p8581qp15hw10s6vro06vignf].[avg:Employment rate:qk]' value='bold' />
+            <format attr='color' field='[federated.035p8581qp15hw10s6vro06vignf].[avg:Employment rate:qk]' value='#4e79a7' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Canadian Province/CMA:nk]' value='180' />
+            <format attr='height-header' value='28' />
+            <format attr='font-size' data-class='subtotal' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Canadian Province/CMA:nk]' value='9' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-family' value='Tableau Regular' />
+            <format attr='font-weight' value='bold' />
+            <format attr='font-size' value='9' />
+            <format attr='background-color' value='#ffffff' />
+          </style-rule>
+          <style-rule element='field-labels-decoration'>
+            <format attr='wrap' value='on' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-family' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Canadian Province/CMA:nk]' value='Tableau Regular' />
+            <format attr='color' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Canadian Province/CMA:nk]' value='#1b1b1b' />
+            <format attr='font-weight' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Canadian Province/CMA:nk]' value='normal' />
+            <format attr='text-align' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Canadian Province/CMA:nk]' value='right' />
+            <format attr='font-size' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Canadian Province/CMA:nk]' value='8' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+          </style-rule>
+          <style-rule element='legend-title-text'>
+            <format attr='color' field='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' value='Employability rates' />
+          </style-rule>
+          <style-rule element='quick-filter'>
+            <format attr='title' field='[federated.035p8581qp15hw10s6vro06vignf].[Action (Provinces of Canada)]' value='Provinces of Canada' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.035p8581qp15hw10s6vro06vignf].[avg:Employment rate:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' />
+              <text column='[federated.035p8581qp15hw10s6vro06vignf].[avg:Employment rate:qk]' />
+              <tooltip column='[federated.035p8581qp15hw10s6vro06vignf].[avg:Unemployment rate:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-transparency' value='255' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.035p8581qp15hw10s6vro06vignf].[avg:Unemployment rate:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' />
+              <tooltip column='[federated.035p8581qp15hw10s6vro06vignf].[avg:Employment rate:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.035p8581qp15hw10s6vro06vignf].[none:Canadian Province/CMA:nk]</rows>
+        <cols>([federated.035p8581qp15hw10s6vro06vignf].[avg:Employment rate:qk] + [federated.035p8581qp15hw10s6vro06vignf].[avg:Unemployment rate:qk])</cols>
+      </table>
+      <simple-id uuid='{5D81715E-4A9D-43A0-A0FB-1A9305981616}' />
+    </worksheet>
+    <worksheet name='Education level vs Gender'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='immigrant_education_statistics_d2' name='federated.035p8581qp15hw10s6vro06vignf' />
+          </datasources>
+          <datasource-dependencies datasource='federated.035p8581qp15hw10s6vro06vignf'>
+            <column caption='isProvince' datatype='string' name='[Calculation_1528127662141345792]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='IF [Canadian Province/CMA] = &apos;Newfoundland and Labrador&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Prince Edward Island&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Nova Scotia&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;New Brunswick&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Quebec&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Ontario&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Manitoba&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Saskatchewan&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Alberta&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;British Columbia&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Yukon&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Northwest Territories&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Nunavut&apos;&#13;&#10;THEN &apos;Province&apos;&#13;&#10;ELSE &apos;CMA&apos;&#13;&#10;END' />
+            </column>
+            <column caption='CMA' datatype='string' name='[Canadian Province/CMA]' role='dimension' semantic-role='[State].[Name]' type='nominal'>
+              <aliases>
+                <alias key='&quot;Vancouver (CMA), B.C.&quot;' value='Vancouver' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Gender]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;Men+&quot;' value='Men' />
+                <alias key='&quot;Women+&quot;' value='Women' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Highest certificate, diploma or degree]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;High (secondary) school diploma or equivalency certificate&quot;' value='High school diploma or equivalency certificate' />
+                <alias key='&quot;University certificate or diploma below bachelor level&quot;' value='Diploma or University certificate below bachelor level' />
+              </aliases>
+            </column>
+            <column caption='Provinces of Canada' datatype='string' name='[Province]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+            <column datatype='real' name='[Total - Labour force status]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Visible minority]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_1528127662141345792]' derivation='None' name='[none:Calculation_1528127662141345792:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Gender]' derivation='None' name='[none:Gender:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Highest certificate, diploma or degree]' derivation='None' name='[none:Highest certificate, diploma or degree:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Visible minority]' derivation='None' name='[none:Visible minority:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Total - Labour force status]' derivation='Sum' name='[sum:Total - Labour force status:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[Action (CMA,Highest certificate, diploma or degree)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action5_6FCD64F42ADD45808C5426EA0F0C80A6]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[Canadian Province/CMA]' />
+              <groupfilter function='level-members' level='[Highest certificate, diploma or degree]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[Action (Highest certificate, diploma or degree,Provinces of Canada)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action5_6FCD64F42ADD45808C5426EA0F0C80A6]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[Highest certificate, diploma or degree]' />
+              <groupfilter function='level-members' level='[Province]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[Action (Provinces of Canada)]' filter-group='5'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[Province]' member='&quot;Alberta&quot;' />
+              <groupfilter function='member' level='[Province]' member='&quot;British Columbia&quot;' />
+              <groupfilter function='member' level='[Province]' member='&quot;Ontario&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Calculation_1528127662141345792:nk]'>
+            <groupfilter function='member' level='[none:Calculation_1528127662141345792:nk]' member='&quot;Province&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]' filter-group='6'>
+            <groupfilter function='level-members' level='[none:Gender:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' filter-group='3'>
+            <groupfilter function='level-members' level='[none:Highest certificate, diploma or degree:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Visible minority:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Calculation_1528127662141345792:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[Action (Provinces of Canada)]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[Action (CMA,Highest certificate, diploma or degree)]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[Action (Highest certificate, diploma or degree,Provinces of Canada)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='height' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' value='46' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='background-color' field='[federated.035p8581qp15hw10s6vro06vignf].[sum:Total - Labour force status:qk]' value='#ffffff' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-weight' value='bold' />
+            <format attr='color' value='#333333' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='text-orientation' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' value='-90' />
+            <format attr='font-weight' field='[federated.035p8581qp15hw10s6vro06vignf].[sum:Total - Labour force status:qk]' value='bold' />
+            <format attr='color' field='[federated.035p8581qp15hw10s6vro06vignf].[sum:Total - Labour force status:qk]' value='#333333' />
+            <format attr='font-size' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' value='8' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' scope='rows' value='on' />
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='stroke-size' scope='rows' value='2' />
+          </style-rule>
+          <style-rule element='legend'>
+            <format attr='font-size' value='8' />
+          </style-rule>
+          <style-rule element='legend-title'>
+            <format attr='font-size' value='8' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.035p8581qp15hw10s6vro06vignf].[sum:Total - Labour force status:qk]</rows>
+        <cols>[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]</cols>
+      </table>
+      <simple-id uuid='{3D81912A-736D-432B-B086-8E09E726E728}' />
+    </worksheet>
+    <worksheet name='Labour force data of the immigrants in 2016-2021'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontname='Tableau Regular' fontsize='12'>&lt;Sheet Name&gt;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='immigrant_education_statistics_d2' name='federated.035p8581qp15hw10s6vro06vignf' />
+          </datasources>
+          <datasource-dependencies datasource='federated.035p8581qp15hw10s6vro06vignf'>
+            <column caption='isProvince' datatype='string' name='[Calculation_1528127662141345792]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='IF [Canadian Province/CMA] = &apos;Newfoundland and Labrador&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Prince Edward Island&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Nova Scotia&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;New Brunswick&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Quebec&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Ontario&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Manitoba&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Saskatchewan&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Alberta&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;British Columbia&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Yukon&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Northwest Territories&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Nunavut&apos;&#13;&#10;THEN &apos;Province&apos;&#13;&#10;ELSE &apos;CMA&apos;&#13;&#10;END' />
+            </column>
+            <column caption='CMA' datatype='string' name='[Canadian Province/CMA]' role='dimension' semantic-role='[State].[Name]' type='nominal'>
+              <aliases>
+                <alias key='&quot;Vancouver (CMA), B.C.&quot;' value='Vancouver' />
+              </aliases>
+            </column>
+            <column datatype='real' name='[Employed]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Gender]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;Men+&quot;' value='Men' />
+                <alias key='&quot;Women+&quot;' value='Women' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Highest certificate, diploma or degree]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;High (secondary) school diploma or equivalency certificate&quot;' value='High school diploma or equivalency certificate' />
+                <alias key='&quot;University certificate or diploma below bachelor level&quot;' value='Diploma or University certificate below bachelor level' />
+              </aliases>
+            </column>
+            <column datatype='real' name='[In the labour force]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Not in the labour force]' role='measure' type='quantitative' />
+            <column caption='Provinces of Canada' datatype='string' name='[Province]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+            <column datatype='real' name='[Unemployed]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Visible minority]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_1528127662141345792]' derivation='None' name='[none:Calculation_1528127662141345792:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Gender]' derivation='None' name='[none:Gender:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Highest certificate, diploma or degree]' derivation='None' name='[none:Highest certificate, diploma or degree:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Visible minority]' derivation='None' name='[none:Visible minority:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Employed]' derivation='Sum' name='[sum:Employed:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[In the labour force]' derivation='Sum' name='[sum:In the labour force:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Not in the labour force]' derivation='Sum' name='[sum:Not in the labour force:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Unemployed]' derivation='Sum' name='[sum:Unemployed:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:Employed:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:In the labour force:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:Not in the labour force:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:Unemployed:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' kind='hide'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-manual-selection='true' user:ui-manual-selection-all-when-empty='true' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[:Measure Names]' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:In the labour force:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:Employed:qk]&quot;</bucket>
+              <bucket>&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:Unemployed:qk]&quot;</bucket>
+              <bucket>&quot;[federated.035p8581qp15hw10s6vro06vignf].[sum:Not in the labour force:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[Action (CMA,Highest certificate, diploma or degree)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action5_6FCD64F42ADD45808C5426EA0F0C80A6]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[Canadian Province/CMA]' />
+              <groupfilter function='level-members' level='[Highest certificate, diploma or degree]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[Action (Highest certificate, diploma or degree,Provinces of Canada)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action5_6FCD64F42ADD45808C5426EA0F0C80A6]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[Highest certificate, diploma or degree]' />
+              <groupfilter function='level-members' level='[Province]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[Action (Provinces of Canada)]' filter-group='5'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[Province]' member='&quot;Alberta&quot;' />
+              <groupfilter function='member' level='[Province]' member='&quot;British Columbia&quot;' />
+              <groupfilter function='member' level='[Province]' member='&quot;Ontario&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Calculation_1528127662141345792:nk]'>
+            <groupfilter function='member' level='[none:Calculation_1528127662141345792:nk]' member='&quot;Province&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]' filter-group='6'>
+            <groupfilter function='level-members' level='[none:Gender:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' filter-group='3'>
+            <groupfilter function='level-members' level='[none:Highest certificate, diploma or degree:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Calculation_1528127662141345792:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Visible minority:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[Action (Provinces of Canada)]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[Action (CMA,Highest certificate, diploma or degree)]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[Action (Highest certificate, diploma or degree,Provinces of Canada)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.035p8581qp15hw10s6vro06vignf].[Multiple Values]' scope='rows' value='Number of People' />
+            <format attr='height' field='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' value='90' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]' value='84' />
+            <format attr='width' field='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' value='61' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='height' field='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' value='10' />
+            <format attr='width' field='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' value='180' />
+            <format attr='background-color' field='[federated.035p8581qp15hw10s6vro06vignf].[sum:Employed:qk]' value='#ffffff' />
+            <format attr='band-color' scope='rows' value='#ffffff' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-weight' value='bold' />
+            <format attr='color' value='#333333' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-weight' field='[federated.035p8581qp15hw10s6vro06vignf].[Multiple Values]' value='bold' />
+            <format attr='color' field='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' value='#1b1b1b' />
+            <format attr='color' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]' value='#1b1b1b' />
+            <format attr='color' field='[federated.035p8581qp15hw10s6vro06vignf].[Multiple Values]' value='#333333' />
+            <format attr='wrap' field='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' value='on' />
+            <format attr='text-orientation' field='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' value='-90' />
+            <format attr='font-size' field='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' value='8' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='band-size' scope='rows' value='1' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' scope='rows' value='on' />
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='stroke-size' scope='rows' value='2' />
+          </style-rule>
+          <style-rule element='legend'>
+            <format attr='background-color' value='#ffffff' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.035p8581qp15hw10s6vro06vignf].[Multiple Values]</rows>
+        <cols>[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]</cols>
+      </table>
+      <simple-id uuid='{7FD46854-AEEC-4DA9-8982-C581185D34CA}' />
+    </worksheet>
+    <worksheet name='Province-wise employability comparison'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='immigrant_education_statistics_d2' name='federated.035p8581qp15hw10s6vro06vignf' />
+          </datasources>
+          <datasource-dependencies datasource='federated.035p8581qp15hw10s6vro06vignf'>
+            <column caption='isProvince' datatype='string' name='[Calculation_1528127662141345792]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='IF [Canadian Province/CMA] = &apos;Newfoundland and Labrador&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Prince Edward Island&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Nova Scotia&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;New Brunswick&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Quebec&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Ontario&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Manitoba&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Saskatchewan&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Alberta&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;British Columbia&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Yukon&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Northwest Territories&apos; OR&#13;&#10;   [Canadian Province/CMA] = &apos;Nunavut&apos;&#13;&#10;THEN &apos;Province&apos;&#13;&#10;ELSE &apos;CMA&apos;&#13;&#10;END' />
+            </column>
+            <column caption='CMA' datatype='string' name='[Canadian Province/CMA]' role='dimension' semantic-role='[State].[Name]' type='nominal'>
+              <aliases>
+                <alias key='&quot;Vancouver (CMA), B.C.&quot;' value='Vancouver' />
+              </aliases>
+            </column>
+            <column datatype='real' name='[Employment rate]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Gender]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;Men+&quot;' value='Men' />
+                <alias key='&quot;Women+&quot;' value='Women' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Highest certificate, diploma or degree]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;High (secondary) school diploma or equivalency certificate&quot;' value='High school diploma or equivalency certificate' />
+                <alias key='&quot;University certificate or diploma below bachelor level&quot;' value='Diploma or University certificate below bachelor level' />
+              </aliases>
+            </column>
+            <column caption='Provinces of Canada' datatype='string' name='[Province]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+            <column datatype='real' name='[Unemployment rate]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Visible minority]' role='dimension' type='nominal' />
+            <column-instance column='[Employment rate]' derivation='Avg' name='[avg:Employment rate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Unemployment rate]' derivation='Avg' name='[avg:Unemployment rate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1528127662141345792]' derivation='None' name='[none:Calculation_1528127662141345792:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Gender]' derivation='None' name='[none:Gender:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Highest certificate, diploma or degree]' derivation='None' name='[none:Highest certificate, diploma or degree:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Province]' derivation='None' name='[none:Province:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Visible minority]' derivation='None' name='[none:Visible minority:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[Action (Provinces of Canada)]' filter-group='5'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[Province]' member='&quot;Alberta&quot;' />
+              <groupfilter function='member' level='[Province]' member='&quot;British Columbia&quot;' />
+              <groupfilter function='member' level='[Province]' member='&quot;Ontario&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Calculation_1528127662141345792:nk]'>
+            <groupfilter function='member' level='[none:Calculation_1528127662141345792:nk]' member='&quot;Province&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]' filter-group='6'>
+            <groupfilter function='level-members' level='[none:Gender:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' filter-group='3'>
+            <groupfilter function='level-members' level='[none:Highest certificate, diploma or degree:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Calculation_1528127662141345792:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Visible minority:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[Action (Provinces of Canada)]</column>
+            <column>[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.035p8581qp15hw10s6vro06vignf].[avg:Unemployment rate:qk]' field-type='quantitative' fold='true' scope='rows' synchronized='true' type='space' />
+            <format attr='height' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' value='97' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='text-orientation' field='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' value='-90' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='4' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' />
+            </encodings>
+          </pane>
+          <pane id='5' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.035p8581qp15hw10s6vro06vignf].[avg:Employment rate:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' />
+            </encodings>
+          </pane>
+          <pane id='6' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.035p8581qp15hw10s6vro06vignf].[avg:Unemployment rate:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>([federated.035p8581qp15hw10s6vro06vignf].[avg:Employment rate:qk] + [federated.035p8581qp15hw10s6vro06vignf].[avg:Unemployment rate:qk])</rows>
+        <cols>([federated.035p8581qp15hw10s6vro06vignf].[none:Province:nk] / [federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk])</cols>
+      </table>
+      <simple-id uuid='{2B6172DF-65A9-491D-A189-F284F38D04AD}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard _.fcp.AccessibleZoneTabOrder.true...enable-sort-zone-taborder='true' name='Immigrant Education and Employability (2)'>
+      <style />
+      <size maxheight='800' maxwidth='1300' minheight='800' minwidth='1300' sizing-mode='fixed' />
+      <datasources>
+        <datasource caption='immigrant_education_statistics_d2' name='federated.035p8581qp15hw10s6vro06vignf' />
+      </datasources>
+      <datasource-dependencies datasource='federated.035p8581qp15hw10s6vro06vignf'>
+        <column datatype='string' name='[Gender]' role='dimension' type='nominal'>
+          <aliases>
+            <alias key='&quot;Men+&quot;' value='Men' />
+            <alias key='&quot;Women+&quot;' value='Women' />
+          </aliases>
+        </column>
+        <column datatype='string' name='[Highest certificate, diploma or degree]' role='dimension' type='nominal'>
+          <aliases>
+            <alias key='&quot;High (secondary) school diploma or equivalency certificate&quot;' value='High school diploma or equivalency certificate' />
+            <alias key='&quot;University certificate or diploma below bachelor level&quot;' value='Diploma or University certificate below bachelor level' />
+          </aliases>
+        </column>
+        <column datatype='string' name='[Visible minority]' role='dimension' type='nominal' />
+        <column-instance column='[Gender]' derivation='None' name='[none:Gender:nk]' pivot='key' type='nominal' />
+        <column-instance column='[Highest certificate, diploma or degree]' derivation='None' name='[none:Highest certificate, diploma or degree:nk]' pivot='key' type='nominal' />
+        <column-instance column='[Visible minority]' derivation='None' name='[none:Visible minority:nk]' pivot='key' type='nominal' />
+      </datasource-dependencies>
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='91375' id='7' param='horz' type-v2='layout-flow' w='98770' x='615' y='7625'>
+            <zone h='91375' id='5' type-v2='layout-basic' w='86462' x='615' y='7625' />
+            <zone fixed-size='160' h='91375' id='6' is-fixed='true' param='vert' type-v2='layout-flow' w='12308' x='87077' y='7625' />
+          </zone>
+          <zone forceUpdate='true' h='6625' id='12' type-v2='text' w='98770' x='615' y='1000'>
+            <formatted-text>
+              <run fontalignment='1' fontcolor='#000000' fontname='Tableau Bold' fontsize='14'>Immigrant Education and Employability Analysis</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+              <format attr='background-color' value='#f9e9e0' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+            <format attr='background-color' value='#ffffff' />
+          </zone-style>
+        </zone>
+        <zone h='90750' id='162' type-v2='empty' w='26231' x='308' y='8250'>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='background-color' value='#f5f5f5' />
+          </zone-style>
+        </zone>
+        <zone h='37500' id='13' name='Labour force data of the immigrants in 2016-2021' show-title='false' w='24615' x='1154' y='13750'>
+          <zone-style>
+            <format attr='border-color' value='#d4d4d4' />
+            <format attr='border-style' value='solid' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+        <zone h='39250' id='3' name='Education level vs Gender' show-title='false' w='24615' x='1154' y='58750'>
+          <zone-style>
+            <format attr='border-color' value='#e6e6e6' />
+            <format attr='border-style' value='solid' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+        <zone h='37500' id='16' name='Average Employment rates of CMA' show-title='false' w='54923' x='29385' y='58750'>
+          <zone-style>
+            <format attr='border-color' value='#e6e6e6' />
+            <format attr='border-style' value='solid' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+        <zone forceUpdate='true' h='4125' id='36' type-v2='text' w='25000' x='1000' y='8750'>
+          <formatted-text>
+            <run fontalignment='1' fontcolor='#000000' fontname='Tableau Semibold'>Labour force status of the immigrants</run>
+          </formatted-text>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='4' />
+            <format attr='background-color' value='#f9e9e0' />
+          </zone-style>
+        </zone>
+        <zone forceUpdate='true' h='4125' id='37' type-v2='text' w='55308' x='29154' y='8750'>
+          <formatted-text>
+            <run fontalignment='1' fontcolor='#000000' fontname='Tableau Semibold'>Province-wise Employment rate for Educational credentials </run>
+          </formatted-text>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='4' />
+            <format attr='background-color' value='#f9e9e0' />
+          </zone-style>
+        </zone>
+        <zone forceUpdate='true' h='4125' id='40' type-v2='text' w='25000' x='1000' y='53750'>
+          <formatted-text>
+            <run fontalignment='1' fontcolor='#000000' fontname='Tableau Semibold'>Educational credentials of the immigrants</run>
+          </formatted-text>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='4' />
+            <format attr='background-color' value='#f9e9e0' />
+          </zone-style>
+        </zone>
+        <zone forceUpdate='true' h='4125' id='41' type-v2='text' w='55308' x='29154' y='53750'>
+          <formatted-text>
+            <run fontalignment='1' fontcolor='#000000' fontname='Tableau Semibold'>Employment rates of CMA</run>
+          </formatted-text>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='4' />
+            <format attr='background-color' value='#f9e9e0' />
+          </zone-style>
+        </zone>
+        <zone h='17625' id='11' name='Education level vs Gender' pane-specification-id='0' param='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' type-v2='color' w='10308' x='15385' y='58875'>
+          <zone-style>
+            <format attr='border-color' value='#e6e6e6' />
+            <format attr='border-style' value='solid' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+        <zone fixed-size='78' h='9000' id='17' is-fixed='true' name='Average Employment rates of CMA' pane-specification-id='1' param='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' type-v2='color' w='12923' x='69538' y='59000'>
+          <zone-style>
+            <format attr='border-color' value='#f5f5f5' />
+            <format attr='border-style' value='solid' />
+            <format attr='border-width' value='1' />
+            <format attr='background-color' value='#ffffff' />
+          </zone-style>
+        </zone>
+        <zone friendly-name='Province' h='7250' id='163' mode='checkdropdown' name='Average Employment rates of CMA' param='[federated.035p8581qp15hw10s6vro06vignf].[Action (Provinces of Canada)]' type-v2='filter' values='database' w='12769' x='86231' y='8125'>
+          <zone-style>
+            <format attr='border-color' value='#898989' />
+            <format attr='border-style' value='dotted' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+        <zone h='41875' id='10' name='Education level vs Gender' param='[federated.035p8581qp15hw10s6vro06vignf].[none:Visible minority:nk]' type-v2='filter' w='12923' x='86231' y='16875'>
+          <zone-style>
+            <format attr='border-color' value='#898989' />
+            <format attr='border-style' value='dotted' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+        <zone h='12125' id='164' name='Average Employment rates of CMA' param='[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]' type-v2='filter' values='database' w='12923' x='86231' y='60375'>
+          <zone-style>
+            <format attr='border-color' value='#898989' />
+            <format attr='border-style' value='dotted' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+        <zone h='37500' id='213' name='Province-wise employability comparison' show-title='false' w='54923' x='29385' y='13750'>
+          <zone-style>
+            <format attr='border-color' value='#e6e6e6' />
+            <format attr='border-style' value='solid' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+        <zone h='23625' id='214' name='Province-wise employability comparison' param='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' type-v2='filter' w='12846' x='86308' y='73125'>
+          <zone-style>
+            <format attr='border-color' value='#898989' />
+            <format attr='border-style' value='dotted' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='1900' minheight='1900' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='306' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='305' param='vert' type-v2='layout-flow' w='98770' x='615' y='1000'>
+                <zone forceUpdate='true' h='6625' id='12' type-v2='text' w='98770' x='615' y='1000'>
+                  <formatted-text>
+                    <run fontalignment='1' fontcolor='#000000' fontname='Tableau Bold' fontsize='14'>Immigrant Education and Employability Analysis</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                    <format attr='background-color' value='#f9e9e0' />
+                  </zone-style>
+                </zone>
+                <zone forceUpdate='true' h='4125' id='36' type-v2='text' w='25000' x='1000' y='8750'>
+                  <formatted-text>
+                    <run fontalignment='1' fontcolor='#000000' fontname='Tableau Semibold'>Labour force status of the immigrants</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                    <format attr='background-color' value='#f9e9e0' />
+                  </zone-style>
+                </zone>
+                <zone forceUpdate='true' h='4125' id='37' type-v2='text' w='55308' x='29154' y='8750'>
+                  <formatted-text>
+                    <run fontalignment='1' fontcolor='#000000' fontname='Tableau Semibold'>Province-wise Employment rate for Educational credentials </run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                    <format attr='background-color' value='#f9e9e0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='37500' id='13' is-fixed='true' name='Labour force data of the immigrants in 2016-2021' show-title='false' w='24615' x='1154' y='13750'>
+                  <zone-style>
+                    <format attr='border-color' value='#d4d4d4' />
+                    <format attr='border-style' value='solid' />
+                    <format attr='border-width' value='1' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='23625' id='214' mode='checkdropdown' name='Province-wise employability comparison' param='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' type-v2='filter' w='12846' x='86308' y='73125'>
+                  <zone-style>
+                    <format attr='border-color' value='#898989' />
+                    <format attr='border-style' value='dotted' />
+                    <format attr='border-width' value='1' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='37500' id='213' is-fixed='true' name='Province-wise employability comparison' show-title='false' w='54923' x='29385' y='13750'>
+                  <zone-style>
+                    <format attr='border-color' value='#e6e6e6' />
+                    <format attr='border-style' value='solid' />
+                    <format attr='border-width' value='1' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone forceUpdate='true' h='4125' id='40' type-v2='text' w='25000' x='1000' y='53750'>
+                  <formatted-text>
+                    <run fontalignment='1' fontcolor='#000000' fontname='Tableau Semibold'>Educational credentials of the immigrants</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                    <format attr='background-color' value='#f9e9e0' />
+                  </zone-style>
+                </zone>
+                <zone forceUpdate='true' h='4125' id='41' type-v2='text' w='55308' x='29154' y='53750'>
+                  <formatted-text>
+                    <run fontalignment='1' fontcolor='#000000' fontname='Tableau Semibold'>Employment rates of CMA</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                    <format attr='background-color' value='#f9e9e0' />
+                  </zone-style>
+                </zone>
+                <zone h='41875' id='10' mode='checkdropdown' name='Education level vs Gender' param='[federated.035p8581qp15hw10s6vro06vignf].[none:Visible minority:nk]' type-v2='filter' w='12923' x='86231' y='16875'>
+                  <zone-style>
+                    <format attr='border-color' value='#898989' />
+                    <format attr='border-style' value='dotted' />
+                    <format attr='border-width' value='1' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='39250' id='3' is-fixed='true' name='Education level vs Gender' show-title='false' w='24615' x='1154' y='58750'>
+                  <zone-style>
+                    <format attr='border-color' value='#e6e6e6' />
+                    <format attr='border-style' value='solid' />
+                    <format attr='border-width' value='1' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='17625' id='11' name='Education level vs Gender' pane-specification-id='0' param='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' type-v2='color' w='10308' x='15385' y='58875'>
+                  <zone-style>
+                    <format attr='border-color' value='#e6e6e6' />
+                    <format attr='border-style' value='solid' />
+                    <format attr='border-width' value='1' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone friendly-name='Province' h='7250' id='163' mode='checkdropdown' name='Average Employment rates of CMA' param='[federated.035p8581qp15hw10s6vro06vignf].[Action (Provinces of Canada)]' type-v2='filter' values='database' w='12769' x='86231' y='8125'>
+                  <zone-style>
+                    <format attr='border-color' value='#898989' />
+                    <format attr='border-style' value='dotted' />
+                    <format attr='border-width' value='1' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='12125' id='164' mode='checkdropdown' name='Average Employment rates of CMA' param='[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]' type-v2='filter' values='database' w='12923' x='86231' y='60375'>
+                  <zone-style>
+                    <format attr='border-color' value='#898989' />
+                    <format attr='border-style' value='dotted' />
+                    <format attr='border-width' value='1' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='37500' id='16' is-fixed='true' name='Average Employment rates of CMA' show-title='false' w='54923' x='29385' y='58750'>
+                  <zone-style>
+                    <format attr='border-color' value='#e6e6e6' />
+                    <format attr='border-style' value='solid' />
+                    <format attr='border-width' value='1' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='78' h='9000' id='17' name='Average Employment rates of CMA' pane-specification-id='1' param='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' type-v2='color' w='12923' x='69538' y='59000'>
+                  <zone-style>
+                    <format attr='border-color' value='#f5f5f5' />
+                    <format attr='border-style' value='solid' />
+                    <format attr='border-width' value='1' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                    <format attr='background-color' value='#ffffff' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+                <format attr='background-color' value='#ffffff' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{ACCD3728-D5D1-4C6B-9A1F-88D3C69940EE}' />
+    </dashboard>
+  </dashboards>
+  <windows saved-dpi-scale-factor='1.25' source-height='30'>
+    <window class='worksheet' name='Education level vs Gender'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.035p8581qp15hw10s6vro06vignf].[none:Calculation_1528127662141345792:nk]' type='filter' />
+            <card param='[federated.035p8581qp15hw10s6vro06vignf].[none:Visible minority:nk]' type='filter' />
+            <card pane-specification-id='0' param='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight field='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]'>
+          <bucket-selection />
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{6D697893-08C1-458B-B381-DF72898C3850}' />
+    </window>
+    <window class='worksheet' name='Labour force data of the immigrants in 2016-2021'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.035p8581qp15hw10s6vro06vignf].[none:Visible minority:nk]' type='filter' />
+            <card pane-specification-id='0' param='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]</field>
+            <field>[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{4BAE9569-C893-4FB7-B2DC-9E3A9A3B8277}' />
+    </window>
+    <window class='worksheet' name='Average Employment rates of CMA'>
+      <cards>
+        <edge name='left'>
+          <strip size='200'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='36'>
+            <card type='columns' />
+          </strip>
+          <strip size='36'>
+            <card type='rows' />
+          </strip>
+          <strip size='36'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='200'>
+            <card pane-specification-id='1' param='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{362E65D8-A8F3-4E65-9947-7D0D3647C18D}' />
+    </window>
+    <window class='worksheet' name='Province-wise employability comparison'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]' type='filter' />
+            <card pane-specification-id='5' param='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]</field>
+            <field>[federated.035p8581qp15hw10s6vro06vignf].[none:Calculation_1528127662141345792:nk]</field>
+            <field>[federated.035p8581qp15hw10s6vro06vignf].[none:Canadian Province/CMA:nk]</field>
+            <field>[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]</field>
+            <field>[federated.035p8581qp15hw10s6vro06vignf].[none:Province:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{5F856036-F2C8-4866-A2E3-CEBB3DCA82AD}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Immigrant Education and Employability (2)'>
+      <viewpoints>
+        <viewpoint name='Average Employment rates of CMA'>
+          <highlight field='[federated.035p8581qp15hw10s6vro06vignf].[:Measure Names]'>
+            <bucket-selection />
+          </highlight>
+        </viewpoint>
+        <viewpoint name='Education level vs Gender'>
+          <zoom type='entire-view' />
+          <highlight field='[federated.035p8581qp15hw10s6vro06vignf].[none:Highest certificate, diploma or degree:nk]'>
+            <bucket-selection />
+          </highlight>
+        </viewpoint>
+        <viewpoint name='Labour force data of the immigrants in 2016-2021'>
+          <zoom type='entire-view' />
+          <highlight field='[federated.035p8581qp15hw10s6vro06vignf].[none:Gender:nk]'>
+            <bucket-selection />
+          </highlight>
+        </viewpoint>
+        <viewpoint name='Province-wise employability comparison'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='-1' />
+      <simple-id uuid='{2E655C61-F3F1-4757-AAAC-01E71E33D3E4}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Average Employment rates of CMA' width='192'>
+      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
+      V5LhFB7k/wdWL3ujAbInUQAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='Education level vs Gender' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Immigrant Education and Employability (2)' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Labour force data of the immigrants in 2016-2021' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Province-wise employability comparison' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>
