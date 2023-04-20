@@ -1443,8 +1443,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1900' minheight='1900' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='306' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='305' param='vert' type-v2='layout-flow' w='98770' x='615' y='1000'>
+            <zone h='100000' id='310' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='309' param='vert' type-v2='layout-flow' w='98770' x='615' y='1000'>
                 <zone forceUpdate='true' h='6625' id='12' type-v2='text' w='98770' x='615' y='1000'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#000000' fontname='Tableau Bold' fontsize='14'>Immigrant Education and Employability Analysis</run>
@@ -1616,7 +1616,7 @@
       <simple-id uuid='{ACCD3728-D5D1-4C6B-9A1F-88D3C69940EE}' />
     </dashboard>
   </dashboards>
-  <windows saved-dpi-scale-factor='1.25' source-height='30'>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
     <window class='worksheet' name='Education level vs Gender'>
       <cards>
         <edge name='left'>
@@ -1788,7 +1788,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='213' />
       <simple-id uuid='{2E655C61-F3F1-4757-AAAC-01E71E33D3E4}' />
     </window>
   </windows>
